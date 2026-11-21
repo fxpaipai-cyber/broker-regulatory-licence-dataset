@@ -1881,7 +1881,7 @@ b266,英皇金融集团,英皇金融集团（香港）有限公司,SFC,SFC,SFC,�
 decode-global,Decode Global,DECODE CAPITAL PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 246796,AFSL 246796,true
 bitstamp,Bitstamp,Bitstamp Europe S.A.,CSSF,Commission de Surveillance du Secteur Financier (CSSF),Commission de Surveillance du Secteur Financier (CSSF),卢森堡,T3,LEI,549300XIBGTJ0PLIEO72,MiCA CASP 授权,MiCA CASP 授权 · LEI 549300XIBGTJ0PLIEO72,true
 coinbase,Coinbase,Coinbase Luxembourg S.A.,CSSF,Commission de Surveillance du Secteur Financier (CSSF),Commission de Surveillance du Secteur Financier (CSSF),卢森堡,T3,LEI,984500F14CA4571AAC11,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500F14CA4571AAC11,true
-gate-io,Gate.io,Gate Technology Ltd,MFSA,MFSA,MFSA,马耳他,T2,MFSA,GTEC-25238,MiCA CASP · GTEC-25238（另 PI · GTEC-25926）,MiCA CASP · GTEC-25238（另 PI · GTEC-25926）,true
+gate-io,Gate.io,Gate Technology Ltd,MFSA,MFSA,MFSA,马耳他,T2,MFSA,GTEC-25238,MiCA CASP · GTEC-25238（另 FI · GTEC-25926）,MiCA CASP · GTEC-25238（另 FI · GTEC-25926）,true
 gate-io,Gate.io,Gate Technology FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/25/04/007,VASP 交易服务 · VL/25/04/007,VASP 交易服务 · VL/25/04/007,true
 binance,Binance,Binance FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/24/04/001,VASP · VL/24/04/001,VASP · VL/24/04/001,true
 binance,Binance,Binance Japan K.K.,FSA,FSA,FSA,日本,T1,ref,,加密资产交换业者登记（关东财务局）,加密资产交换业者登记（关东财务局）,true
