@@ -13,6 +13,11 @@ authors:
 version: "2026.11.21"
 date-released: 2026-11-21
 license: CC-BY-4.0
+doi: 10.5281/zenodo.24415043
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24415043
+    description: Zenodo concept DOI (always points to the latest version)
 url: "https://paipaifx.com/open-data.html"
 repository-code: "https://paipaifx.com"
 keywords:
