@@ -40,8 +40,8 @@ structures.
 ```python
 from datasets import load_dataset
 
-brokers = load_dataset("<org>/broker-licences", "brokers", split="train")
-licences = load_dataset("<org>/broker-licences", "licences", split="train")
+brokers = load_dataset("paipaifx/broker-regulatory-licence-dataset", "brokers", split="train")
+licences = load_dataset("paipaifx/broker-regulatory-licence-dataset", "licences", split="train")
 ```
 
 Or read the raw CSVs with `encoding="utf-8-sig"` (they carry a BOM for Excel).
