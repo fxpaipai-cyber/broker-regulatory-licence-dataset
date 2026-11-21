@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Global Broker Regulatory Licences Dataset"
+abstract: >-
+  Regulatory authorisations and licence records for FX/CFD, precious metals,
+  securities & futures and crypto-asset brokers worldwide. Each record is a
+  four-tuple of regulator, licensed legal entity, licence reference and tier,
+  each checkable against the issuing authority's public register.
+type: dataset
+authors:
+  - name: "PAIPAI RANKING (交易商排排网)"
+    website: "https://paipaifx.com"
+version: "2026.11.21"
+date-released: 2026-11-21
+license: CC-BY-4.0
+url: "https://paipaifx.com/open-data.html"
+repository-code: "https://paipaifx.com"
+keywords:
+  - broker regulation
+  - forex
+  - CFD
+  - licence register
+  - financial supervision
+  - 监管牌照

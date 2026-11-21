@@ -1,0 +1,5 @@
+# 数据文件不做任何文本转换（CSV 为 CRLF + BOM），保证下载字节与发布源一致
+# Data files are shipped byte-exact: no EOL or encoding normalisation.
+data/*.csv -text
+data/*.json -text
+LICENSE -text

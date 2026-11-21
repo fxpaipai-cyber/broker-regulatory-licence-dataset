@@ -1,0 +1,311 @@
+{
+  "name": "paipai-broker-licences",
+  "title": "全球交易商监管授权与牌照数据集",
+  "description": "Regulatory authorisations and licence records for FX/CFD, precious metals, securities & futures and crypto-asset brokers worldwide. 每条记录为「监管机构 + 持牌法人实体 + 牌照编号 + 层级」四元组，可回到官方注册表复核。",
+  "version": "2026.11.21",
+  "created": "2026-11-21",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "PAIPAI RANKING",
+      "path": "https://paipaifx.com",
+      "role": "author"
+    }
+  ],
+  "sources": [
+    {
+      "title": "交易商排排网 open data",
+      "path": "https://paipaifx.com/open-data.html"
+    }
+  ],
+  "keywords": [
+    "broker",
+    "forex",
+    "CFD",
+    "regulatory licence",
+    "financial regulation",
+    "交易商",
+    "监管牌照",
+    "外汇"
+  ],
+  "resources": [
+    {
+      "name": "brokers",
+      "path": "data/brokers.csv",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "Stable slug used in profile URLs"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Common brand name"
+          },
+          {
+            "name": "legal_entity",
+            "type": "string",
+            "description": "Legal entity as registered"
+          },
+          {
+            "name": "headquarters",
+            "type": "string",
+            "description": "Headquarters location"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "description": "Category: FX CFD / precious metals spot / securities & futures / crypto"
+          },
+          {
+            "name": "tier",
+            "type": "string",
+            "description": "Tier label"
+          },
+          {
+            "name": "score_total",
+            "type": "number",
+            "description": "Composite score, 0-100"
+          },
+          {
+            "name": "score_grade",
+            "type": "string",
+            "description": "Grade derived from score_total"
+          },
+          {
+            "name": "score_reg",
+            "type": "number",
+            "description": "Regulatory dimension (weight 35)"
+          },
+          {
+            "name": "score_breadth",
+            "type": "number",
+            "description": "Licence breadth (weight 20)"
+          },
+          {
+            "name": "score_prod",
+            "type": "number",
+            "description": "Product dimension (weight 20)"
+          },
+          {
+            "name": "score_platform",
+            "type": "number",
+            "description": "Platform dimension (weight 10)"
+          },
+          {
+            "name": "score_type",
+            "type": "number",
+            "description": "Business type dimension (weight 8)"
+          },
+          {
+            "name": "score_source",
+            "type": "number",
+            "description": "Source verifiability (weight 7)"
+          },
+          {
+            "name": "skipped_dims",
+            "type": "string",
+            "description": "Dimensions not collected, pipe-separated; excluded from weighting"
+          },
+          {
+            "name": "licence_count",
+            "type": "integer",
+            "description": "Licence records collected (0 does NOT mean unlicensed)"
+          },
+          {
+            "name": "regulator_count",
+            "type": "integer",
+            "description": "Distinct regulators"
+          },
+          {
+            "name": "regions",
+            "type": "string",
+            "description": "Regions, pipe-separated"
+          },
+          {
+            "name": "platforms",
+            "type": "string",
+            "description": "Trading platforms, pipe-separated"
+          },
+          {
+            "name": "has_conditions",
+            "type": "boolean",
+            "description": "Trading conditions recorded"
+          },
+          {
+            "name": "verified",
+            "type": "boolean",
+            "description": "Verified against official registers"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "Provenance note"
+          },
+          {
+            "name": "profile_url",
+            "type": "string",
+            "description": "Absolute URL of profile page"
+          }
+        ],
+        "primaryKey": "slug"
+      }
+    },
+    {
+      "name": "licences",
+      "path": "data/licences.csv",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "broker_slug",
+            "type": "string",
+            "description": "Foreign key to brokers.slug"
+          },
+          {
+            "name": "broker_name",
+            "type": "string",
+            "description": "Brand name"
+          },
+          {
+            "name": "legal_entity",
+            "type": "string",
+            "description": "Licensed legal entity"
+          },
+          {
+            "name": "regulator_code",
+            "type": "string",
+            "description": "Normalised regulator code (region suffix when shared, e.g. FMA-AT)"
+          },
+          {
+            "name": "regulator_code_raw",
+            "type": "string",
+            "description": "Raw code as found in source"
+          },
+          {
+            "name": "regulator_label",
+            "type": "string",
+            "description": "Regulator display label"
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "Jurisdiction of this authorisation"
+          },
+          {
+            "name": "tier",
+            "type": "string",
+            "description": "Tier: T1 / T2 / T3"
+          },
+          {
+            "name": "licence_kind",
+            "type": "string",
+            "description": "Identifier kind: FRN / AFSL / CE / CIF / FSP / LEI / VASP / MFSA / ref"
+          },
+          {
+            "name": "licence_ref",
+            "type": "string",
+            "description": "Identifier resolvable in the official register; LEI is not a licence number"
+          },
+          {
+            "name": "licence_note",
+            "type": "string",
+            "description": "Notes from source (activity classes etc.)"
+          },
+          {
+            "name": "licence_raw",
+            "type": "string",
+            "description": "Raw source string, for traceability"
+          },
+          {
+            "name": "verified",
+            "type": "boolean",
+            "description": "Verified"
+          }
+        ],
+        "primaryKey": "broker_slug"
+      }
+    },
+    {
+      "name": "regulators",
+      "path": "data/regulators.csv",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "regulator_code",
+            "type": "string",
+            "description": "Normalised regulator code"
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "Jurisdiction"
+          },
+          {
+            "name": "brokers_count",
+            "type": "integer",
+            "description": "Brokers authorised here"
+          },
+          {
+            "name": "tier_t1",
+            "type": "integer",
+            "description": "Count of T1 records"
+          },
+          {
+            "name": "tier_t2",
+            "type": "integer",
+            "description": "Count of T2 records"
+          },
+          {
+            "name": "tier_t3",
+            "type": "integer",
+            "description": "Count of T3 records"
+          },
+          {
+            "name": "licence_ref_count",
+            "type": "integer",
+            "description": "Records carrying a resolvable identifier"
+          },
+          {
+            "name": "distinct_licence_ref",
+            "type": "integer",
+            "description": "Distinct identifiers"
+          }
+        ],
+        "primaryKey": [
+          "regulator_code",
+          "region"
+        ]
+      }
+    },
+    {
+      "name": "brokers-json",
+      "path": "data/brokers.json",
+      "profile": "data-resource",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ]
+}
