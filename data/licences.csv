@@ -11,8 +11,8 @@ ig-group,IG Group,IG Group Holdings plc,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AF
 thinkmarkets,ThinkMarkets,TF Global Markets (UK) Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,629628,,629628,true
 thinkmarkets,ThinkMarkets,TF Global Markets (UK) Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,424700,,424700,true
 thinkmarkets,ThinkMarkets,TF Global Markets (UK) Ltd,FSCA,FSCA,南非 FSCA,南非,T1,FSP,49835,,49835,true
-forex-com,FOREX.com,StoneX Group Inc.,FCA,FCA,英国 FCA,英国,T1,FRN,446717,,446717,true
-forex-com,FOREX.com,StoneX Group Inc.,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,345646,,345646,true
+forex-com,FOREX.com,StoneX Financial Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,446717,,446717,true
+forex-com,FOREX.com,StoneX Financial Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,345646,,345646,true
 cmc-markets,CMC Markets,CMC Markets plc,FCA,FCA,英国 FCA,英国,T1,FRN,173730,,173730,true
 cmc-markets,CMC Markets,CMC Markets plc,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,238054,,238054,true
 avatrade,AvaTrade,Ava Trade Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,406684,,406684,true
@@ -20,8 +20,8 @@ avatrade,AvaTrade,Ava Trade Ltd,FSCA,FSCA,南非 FSCA,南非,T1,FSP,45984,,45984
 activtrades,ActivTrades,ActivTrades plc,FCA,FCA,英国 FCA,英国,T1,FRN,434413,,434413,true
 saxo-bank,Saxo Bank,Saxo Bank A/S,FCA,FCA,英国 FCA,英国,T1,FRN,551422,,551422,true
 saxo-bank,Saxo Bank,Saxo Bank A/S,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,280372,,280372,true
-city-index,City Index,StoneX Group Inc.,FCA,FCA,英国 FCA,英国,T1,FRN,446717,,446717,true
-city-index,City Index,StoneX Group Inc.,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,345646,,345646,true
+city-index,City Index,StoneX Financial Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,446717,,446717,true
+city-index,City Index,StoneX Financial Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,345646,,345646,true
 tickmill,Tickmill,Tickmill Group,FCA,FCA,英国 FCA,英国,T1,FRN,717270,,717270,true
 tickmill,Tickmill,Tickmill Group,FSCA,FSCA,南非 FSCA,南非,T1,FSP,49464,,49464,true
 markets-com,Markets.com,Finalto (Markets.com) Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,481853,,481853,true
@@ -69,8 +69,8 @@ fxcm,FXCM,FXCM Group,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,309763,,309763,t
 fxcm,FXCM,FXCM Group,FSCA,FSCA,南非 FSCA,南非,T2,FSP,46534,,46534,true
 hfm,HFM,HF Markets (UK) Ltd,FCA,FCA,英国 FCA,,,FRN,801701,,801701,true
 hfm,HFM,HF Markets (Europe) Ltd,FSCA,FSCA,南非 FSCA,南非,T2,FSP,46632,,46632,true
-d-prime,D Prime,D Prime Group,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,222650,,222650,true
-core-spreads,Core Spreads,Core Spreads Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,525164,,525164,true
+d-prime,D Prime,Doo Financial Australia Limited,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,222650,,222650,true
+core-spreads,Core Spreads,Trade Nation Financial UK Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,525164,,525164,true
 intertrader,Intertrader,Intertrader Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,597312,,597312,true
 lcg,LCG,London Capital Group,FCA,FCA,英国 FCA,英国,T1,FRN,182110,,182110,true
 xs-com,XS.com,XS Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,374409,,374409,true
@@ -98,7 +98,7 @@ oneroyal,OneRoyal,OneRoyal Group,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,4202
 go-markets,GO Markets,GO Markets Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,254963,,254963,true
 xm,XM,XM Group（Trading Point）,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,443670,,443670,true
 xm,XM,XM Group（Trading Point）,FSCA,FSCA,南非 FSCA,南非,T2,FSP,49976,,49976,true
-doo-prime,Doo Prime,Doo Prime Group,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,222650,,222650,true
+doo-prime,Doo Prime,Doo Financial Australia Limited,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,222650,,222650,true
 startrader,STARTRADER,STARTRADER Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,421210,,421210,true
 startrader,STARTRADER,STARTRADER International Pty Ltd,FSCA,FSCA,南非 FSCA,,,FSP,52464,,52464,true
 acy-securities,ACY Securities,ACY Capital Australia,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,403863,,403863,true
@@ -112,7 +112,7 @@ zfx,ZFX,Zeal Capital Market,FCA,FCA,英国 FCA,英国,T2,FRN,768451,,768451,true
 lmax-group,LMAX Group,LMAX Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,509778,,509778,true
 bdswiss,BDSwiss,BDSWISS Markets SA (Pty) Ltd,FSCA,FSCA,南非 FSCA,,,FSP,49479,,49479,true
 dbg-markets,DBG Markets,DBG Markets Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,247017,,247017,true
-doo-financial,Doo Financial,Doo Financial Group,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,222650,,222650,true
+doo-financial,Doo Financial,Doo Financial Australia Limited,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,222650,,222650,true
 spreadex,Spreadex,Spreadex Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,190941,,190941,true
 primexbt,PrimeXBT,PrimeXBT Trading Services,FSCA,FSCA,南非 FSCA,南非,T2,FSP,45697,,45697,true
 sfc-abs015,元大證券(香港)有限公司,Yuanta Securities (Hong Kong) Company Limited,SFC,SFC,SFC,中国香港,T1,CE,ABS015,第1类 证券交易；第2类 期货合约交易；第4类 就证券提供意见；第5类 就期货合约提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,CE ABS015 · 第1类 证券交易；第2类 期货合约交易；第4类 就证券提供意见；第5类 就期货合约提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,true
@@ -306,8 +306,8 @@ sfc-aad284,馬銀證券(香港)有限公司,MIB Securities (Hong Kong) Limited,S
 sfc-avh546,高原証券有限公司,Pamirs Capital (H.K.) Limited,SFC,SFC,SFC,中国香港,T1,CE,AVH546,第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,CE AVH546 · 第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,true
 sfc-bap681,高誠證券有限公司,Crosby Securities Limited,SFC,SFC,SFC,中国香港,T1,CE,BAP681,第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,CE BAP681 · 第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,true
 aims-fx,AIMS FX,AIMS FX Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,526125,,526125,true
-aus-global,AUS Global,AUS Global Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,427848,,427848,true
-ausprime,Ausprime,Ausprime Markets Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,427848,,427848,true
+aus-global,AUS Global,AUS Global Financial (AU) Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,427848,,427848,true
+ausprime,Ausprime,AUS PRIME EUROPE LIMITED,欧洲 CySEC,欧洲 CySEC,欧洲 CySEC,,T2,,,,,true
 bcr,BCR,Bacera Co Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,328794,,328794,true
 blueberry-markets,Blueberry Markets,Blueberry Markets Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,535887,,535887,true
 global-prime,Global Prime,Global Prime Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,385620,,385620,true
@@ -1873,7 +1873,7 @@ justmarkets,JustMarkets,Just Global Markets (Pty) Ltd,FSCA,FSCA,南非 FSCA,,,FS
 aiprime,AIPRIME,AIPRIME PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 558610,AFSL 558610,true
 orbex,Orbex,Orbex Ltd,FCA,FCA,英国 FCA,,T3,FRN,553071,,553071,true
 q8-trade,Q8 Trade,MARKETFINANCIALS LIMITED,FSA,FSA,FSA,塞舌尔,T3,ref,SD006,证券交易商 · SD006（注册号 8413711-1）,证券交易商 · SD006（注册号 8413711-1）,false
-huatai-securities,HUATAI SECURITIES 华泰证券,华泰金融控股（香港）有限公司,SFC,SFC,SFC,中国香港,T1,CE,AOK809,第 1/2/3/4/6/7/9 类,CE AOK809 · 第 1/2/3/4/6/7/9 类,true
+huatai-securities,HUATAI SECURITIES 华泰证券,Huatai Financial Holdings (Hong Kong) Limited,SFC,SFC,SFC,中国香港,T1,CE,AOK809,第1类 证券交易；第2类 期货合约交易；第3类 杠杆式外汇交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第7类 提供自动化交易服务；第9类 提供资产管理,CE AOK809 · 第1类 证券交易；第2类 期货合约交易；第3类 杠杆式外汇交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第7类 提供自动化交易服务；第9类 提供资产管理,true
 b253,亨达国际金融,HANTEC MARKETS (AUSTRALIA) PTY LIMITED,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 326907,AFSL 326907,true
 wmax,WMAX 威马证券,WMAX PRIME PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 480392,AFSL 480392,true
 fortune-prime-global,Fortune Prime Global,FORTUNE PRIME GLOBAL CAPITAL PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 400364,AFSL 400364,true

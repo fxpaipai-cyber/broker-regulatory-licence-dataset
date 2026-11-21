@@ -302,8 +302,8 @@ sfc-aad284,馬銀證券(香港)有限公司,MIB Securities (Hong Kong) Limited,�
 sfc-avh546,高原証券有限公司,Pamirs Capital (H.K.) Limited,中国香港,证券经纪,T1,6.30,BB,8.0,2.0,0.0,0.0,6.4,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-avh546.html
 sfc-bap681,高誠證券有限公司,Crosby Securities Limited,中国香港,证券经纪,T1,6.30,BB,8.0,2.0,0.0,0.0,6.4,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-bap681.html
 aims-fx,AIMS FX,AIMS FX Pty Ltd,澳大利亚,零售CFD,T2,6.28,BB,5.5,2.0,9.2,8.25,10.0,7.0,,1,1,澳大利亚,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/aims-fx.html
-aus-global,AUS Global,AUS Global Pty Ltd,澳大利亚,零售CFD,T2,6.28,BB,5.5,2.0,9.2,8.25,10.0,7.0,,1,1,澳大利亚,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/aus-global.html
-ausprime,Ausprime,Ausprime Markets Pty Ltd,澳大利亚,零售CFD,T2,6.28,BB,5.5,2.0,9.2,8.25,10.0,7.0,,1,1,澳大利亚,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/ausprime.html
+aus-global,AUS Global,AUS Global Financial (AU) Pty Ltd,澳大利亚,零售CFD,T2,6.28,BB,5.5,2.0,9.2,8.25,10.0,7.0,,1,1,澳大利亚,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/aus-global.html
+ausprime,Ausprime,AUS PRIME EUROPE LIMITED,澳大利亚,零售CFD,T2,6.28,BB,5.5,2.0,9.2,8.25,10.0,7.0,,1,1,塞浦路斯,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/ausprime.html
 bcr,BCR,Bacera Co Pty Ltd,澳大利亚,零售CFD,T2,6.28,BB,5.5,2.0,9.2,8.25,10.0,7.0,,1,1,澳大利亚,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/bcr.html
 blueberry-markets,Blueberry Markets,Blueberry Markets Pty Ltd,澳大利亚,零售CFD,T2,6.28,BB,5.5,2.0,9.2,8.25,10.0,7.0,,1,1,澳大利亚,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/blueberry-markets.html
 cjc-markets,CJC Markets,CJC Markets Ltd,新西兰,零售CFD,T2,6.28,BB,5.5,2.0,9.2,8.25,10.0,7.0,,0,1,新西兰,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/cjc-markets.html

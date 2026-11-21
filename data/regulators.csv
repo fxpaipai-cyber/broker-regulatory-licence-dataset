@@ -1,8 +1,8 @@
 ﻿regulator_code,region,brokers_count,tier_t1,tier_t2,tier_t3,licence_ref_count,distinct_licence_ref
 SFC,中国香港,1711,1711,0,0,1710,1709
 HKGX,中国香港,99,0,0,99,0,0
-CySEC,塞浦路斯,86,0,75,11,12,12
-ASIC,澳大利亚,74,74,0,0,51,47
+CySEC,塞浦路斯,87,0,76,11,12,12
+ASIC,澳大利亚,73,73,0,0,50,47
 FCA,英国,71,71,0,0,46,43
 FSCA,南非,30,0,30,0,26,26
 FSA,塞舌尔,27,0,0,27,1,1
