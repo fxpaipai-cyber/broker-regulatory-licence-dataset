@@ -1884,7 +1884,7 @@ coinbase,Coinbase,Coinbase Luxembourg S.A.,CSSF,Commission de Surveillance du Se
 gate-io,Gate.io,Gate Technology Ltd,MFSA,MFSA,MFSA,马耳他,T2,MFSA,GTEC-25238,MiCA CASP · GTEC-25238（另 FI · GTEC-25926）,MiCA CASP · GTEC-25238（另 FI · GTEC-25926）,true
 gate-io,Gate.io,Gate Technology FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/25/04/007,VASP 交易服务 · VL/25/04/007,VASP 交易服务 · VL/25/04/007,true
 binance,Binance,Binance FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/24/04/001,VASP · VL/24/04/001,VASP · VL/24/04/001,true
-binance,Binance,Binance Japan K.K.,FSA,FSA,FSA,日本,T1,ref,,加密资产交换业者登记（关东财务局）,加密资产交换业者登记（关东财务局）,true
+binance,Binance,Binance Japan Inc.,FSA,FSA,FSA,日本,T1,ref,,加密资产交换业者登记（关东财务局 第00031号）,加密资产交换业者登记（关东财务局 第00031号）,true
 bingx,BingX,MEGE zweite GmbH（BingX EU）,FMA-AT,FMA-AT,FMA-AT,奥地利,T2,LEI,984500G149054BADD925,MiCA CASP,MiCA CASP · LEI 984500G149054BADD925,true
 cex-binance-futures,Binance Futures,Binance FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/24/04/001,VASP · VL/24/04/001（含 VA Derivatives Trading）,VASP · VL/24/04/001（含 VA Derivatives Trading）,true
 cex-binance-options,Binance Options,Binance FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/24/04/001,VASP · VL/24/04/001（含 VA Derivatives Trading）,VASP · VL/24/04/001（含 VA Derivatives Trading）,true
