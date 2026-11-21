@@ -9,6 +9,9 @@ each of which can be checked against the official public register it came from.
 - **Homepage**: https://paipaifx.com/open-data.html
 - **Licence**: CC BY 4.0 (attribution + link back, commercial use allowed)
 - **Scale**: 2,373 brokers · 2,056 licence records · 64 regulator/region groups
+- **DOI**: [10.5281/zenodo.24415043](https://doi.org/10.5281/zenodo.24415043)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24415043.svg)](https://doi.org/10.5281/zenodo.24415043)
 
 ## Why this dataset
 
@@ -35,7 +38,7 @@ join against register exports or de-duplicate group structures.
 ```python
 import pandas as pd
 
-base = "https://raw.githubusercontent.com/<org>/<repo>/main/data/"
+base = "https://raw.githubusercontent.com/fxpaipai-cyber/broker-regulatory-licence-dataset/main/data/"
 brokers = pd.read_csv(base + "brokers.csv", encoding="utf-8-sig")
 licences = pd.read_csv(base + "licences.csv", encoding="utf-8-sig")
 
@@ -104,11 +107,13 @@ noting that this repository is the canonical source.
 
 ## Citation
 
-`CITATION.cff` is included, so GitHub's "Cite this repository" button works. Once the
-archived release is minted on Zenodo a DOI will be added here:
+`CITATION.cff` is included with the minted DOI, so GitHub's "Cite this repository"
+button works out of the box.
+
+- **Zenodo (concept DOI)**: [10.5281/zenodo.24415043](https://doi.org/10.5281/zenodo.24415043) — always points to the latest version
 
 ```
-PAIPAI RANKING (交易商排排网). Global Broker Regulatory Licences Dataset. Snapshot 2026-11-21. https://paipaifx.com/open-data.html. CC BY 4.0.
+PAIPAI RANKING (交易商排排网). Global Broker Regulatory Licences Dataset. Snapshot 2026-11-21. Zenodo. https://doi.org/10.5281/zenodo.24415043. CC BY 4.0.
 ```
 
 ## Updates

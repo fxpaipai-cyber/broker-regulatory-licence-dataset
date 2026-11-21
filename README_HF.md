@@ -60,9 +60,11 @@ Or read the raw CSVs with `encoding="utf-8-sig"` (they carry a BOM for Excel).
 
 ## Citation
 
+Zenodo (concept DOI): https://doi.org/10.5281/zenodo.24415043 — always points to the latest version.
+
 ```
 PAIPAI RANKING (交易商排排网). Global Broker Regulatory Licences Dataset.
-Snapshot 2026-11-21. https://paipaifx.com/open-data.html. CC BY 4.0.
+Snapshot 2026-11-21. Zenodo. https://doi.org/10.5281/zenodo.24415043. CC BY 4.0.
 ```
 
 Full documentation: https://paipaifx.com/open-data.html
