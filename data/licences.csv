@@ -2,21 +2,24 @@
 pepperstone,Pepperstone,Pepperstone Group Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,684312,,684312,true
 pepperstone,Pepperstone,Pepperstone Group Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,414530,,414530,true
 pepperstone,Pepperstone,Pepperstone South Africa (Pty) Ltd,FSCA,FSCA,南非 FSCA,,,FSP,43906,,43906,true
-cfi-financial,CFI Financial,CFI Financial Group,FCA,FCA,英国 FCA,英国,T1,FRN,828955,,828955,true
-cfi-financial,CFI Financial,CFI Financial Group,FSCA,FSCA,南非 FSCA,南非,T1,FSP,53711,,53711,true
-interactive-brokers,Interactive Brokers,"Interactive Brokers Group, Inc.",FCA,FCA,英国 FCA,英国,T1,FRN,208159,,208159,true
-interactive-brokers,Interactive Brokers,"Interactive Brokers Group, Inc.",ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,453554,,453554,true
 ig-group,IG Group,IG Group Holdings plc,FCA,FCA,英国 FCA,英国,T1,FRN,195355,,195355,true
 ig-group,IG Group,IG Group Holdings plc,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,220440,,220440,true
+ig-group,IG Group,IG International Limited（IG 集团百慕大实体）,BMA,BMA,BMA,百慕大,T2,ref,,DAB Class F · 注册号 54814 · 2020-02-18 起,DAB Class F · 注册号 54814 · 2020-02-18 起,true
+cfi-financial,CFI Financial,CFI Financial Group,FCA,FCA,英国 FCA,英国,T1,FRN,828955,,828955,true
+cfi-financial,CFI Financial,CFI Financial Group,FSCA,FSCA,南非 FSCA,南非,T1,FSP,53711,,53711,true
+cmc-markets,CMC Markets,CMC Markets plc,FCA,FCA,英国 FCA,英国,T1,FRN,173730,,173730,true
+cmc-markets,CMC Markets,CMC Markets plc,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,238054,,238054,true
+cmc-markets,CMC Markets,CMC Markets Bermuda Ltd,BMA,BMA,BMA,百慕大,T2,ref,,DAB Class F · 注册号 202302718 · 2025-08-25 起,DAB Class F · 注册号 202302718 · 2025-08-25 起,true
+interactive-brokers,Interactive Brokers,"Interactive Brokers Group, Inc.",FCA,FCA,英国 FCA,英国,T1,FRN,208159,,208159,true
+interactive-brokers,Interactive Brokers,"Interactive Brokers Group, Inc.",ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,453554,,453554,true
 thinkmarkets,ThinkMarkets,TF Global Markets (UK) Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,629628,,629628,true
 thinkmarkets,ThinkMarkets,TF Global Markets (UK) Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,424700,,424700,true
 thinkmarkets,ThinkMarkets,TF Global Markets (UK) Ltd,FSCA,FSCA,南非 FSCA,南非,T1,FSP,49835,,49835,true
 forex-com,FOREX.com,StoneX Financial Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,446717,,446717,true
 forex-com,FOREX.com,StoneX Financial Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,345646,,345646,true
-cmc-markets,CMC Markets,CMC Markets plc,FCA,FCA,英国 FCA,英国,T1,FRN,173730,,173730,true
-cmc-markets,CMC Markets,CMC Markets plc,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,238054,,238054,true
 avatrade,AvaTrade,Ava Trade Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,406684,,406684,true
 avatrade,AvaTrade,Ava Trade Ltd,FSCA,FSCA,南非 FSCA,南非,T1,FSP,45984,,45984,true
+avatrade,AvaTrade,ATRADE LTD（AvaTrade 以色列持牌主体，官网 atrade.co.il）,ISA,ISA,ISA,以色列,T2,ref,,Trading Platform 牌照 · ID 514666577 · 2016-10-30 起 valid,Trading Platform 牌照 · ID 514666577 · 2016-10-30 起 valid,true
 activtrades,ActivTrades,ActivTrades plc,FCA,FCA,英国 FCA,英国,T1,FRN,434413,,434413,true
 saxo-bank,Saxo Bank,Saxo Bank A/S,FCA,FCA,英国 FCA,英国,T1,FRN,551422,,551422,true
 saxo-bank,Saxo Bank,Saxo Bank A/S,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,280372,,280372,true
@@ -39,6 +42,9 @@ admirals,Admirals,Admirals SA (Pty) Ltd,FSCA,FSCA,南非 FSCA,,,FSP,51311,,51311
 eightcap,Eightcap,Eightcap Pty Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,921296,,921296,true
 eightcap,Eightcap,Eightcap Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,391441,,391441,true
 hycm,HYCM,HYCM Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,186171,,186171,true
+plus500,Plus500,Plus500 Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,509909,,509909,true
+plus500,Plus500,Plus500 Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,417727,,417727,true
+plus500,Plus500,PLUS500IL LTD,ISA,ISA,ISA,以色列,T2,ref,,Trading Platform 牌照 · ID 515233914 · 2016-10-30 起 valid,Trading Platform 牌照 · ID 515233914 · 2016-10-30 起 valid,true
 fxopen,FXOpen,FXOpen Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,579202,,579202,true
 fxopen,FXOpen,FXOpen Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,412871,,412871,true
 fxpro,FXPro,FxPro Group Ltd,FCA,FCA,英国 FCA,英国,T2,FRN,509956,,509956,true
@@ -53,10 +59,12 @@ amana-capital,Amana Capital,Amana Capital Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,6
 equiti,Equiti,Equiti Group Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,528328,,528328,true
 exness,Exness,Exness (UK) Ltd,FCA,FCA,英国 FCA,,,FRN,730729,,730729,true
 exness,Exness,Exness (Cy) Ltd,FSCA,FSCA,南非 FSCA,南非,T2,FSP,51024,,51024,true
-plus500,Plus500,Plus500 Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,509909,,509909,true
-plus500,Plus500,Plus500 Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,417727,,417727,true
 aetos-capital,Aetos Capital,Aetos Capital Group Pty Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,592778,,592778,true
 aetos-capital,Aetos Capital,Aetos Capital Group Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,313016,,313016,true
+fxcm,FXCM,FXCM Group,FCA,FCA,英国 FCA,英国,T2,FRN,217689,,217689,true
+fxcm,FXCM,FXCM Group,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,309763,,309763,true
+fxcm,FXCM,FXCM Group,FSCA,FSCA,南非 FSCA,南非,T2,FSP,46534,,46534,true
+fxcm,FXCM,FXCM TRADING LTD（FXCM Israel）,ISA,ISA,ISA,以色列,T2,ref,,Trading Platform 牌照 · ID 515234623 · 2016-10-31 起 valid,Trading Platform 牌照 · ID 515234623 · 2016-10-31 起 valid,true
 pu-prime,PU Prime,PU Prime Group,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,410681,,410681,true
 pu-prime,PU Prime,PU Prime Group,FSCA,FSCA,南非 FSCA,南非,T2,FSP,52218,,52218,true
 fp-markets,FP Markets,First Prudential Markets Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,286354,,286354,true
@@ -64,9 +72,6 @@ fp-markets,FP Markets,First Prudential Markets Pty Ltd,FSCA,FSCA,南非 FSCA,南
 ic-markets,IC Markets,IC Markets Global,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,335692,,335692,true
 capital-index,Capital Index,Capital Index (UK) Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,709693,,709693,true
 fortrade,Fortrade,Fortrade Ltd,FCA,FCA,英国 FCA,英国,T1,FRN,609970,,609970,true
-fxcm,FXCM,FXCM Group,FCA,FCA,英国 FCA,英国,T2,FRN,217689,,217689,true
-fxcm,FXCM,FXCM Group,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,309763,,309763,true
-fxcm,FXCM,FXCM Group,FSCA,FSCA,南非 FSCA,南非,T2,FSP,46534,,46534,true
 hfm,HFM,HF Markets (UK) Ltd,FCA,FCA,英国 FCA,,,FRN,801701,,801701,true
 hfm,HFM,HF Markets (Europe) Ltd,FSCA,FSCA,南非 FSCA,南非,T2,FSP,46632,,46632,true
 d-prime,D Prime,Doo Financial Australia Limited,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,222650,,222650,true
@@ -98,6 +103,7 @@ oneroyal,OneRoyal,OneRoyal Group,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,4202
 go-markets,GO Markets,GO Markets Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,254963,,254963,true
 xm,XM,XM Group（Trading Point）,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,443670,,443670,true
 xm,XM,XM Group（Trading Point）,FSCA,FSCA,南非 FSCA,南非,T2,FSP,49976,,49976,true
+sfc-aaj160,Barclays Bank PLC,Barclays Bank PLC,SFC,SFC,SFC,中国香港,T1,CE,AAJ160,第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见,CE AAJ160 · 第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见,true
 doo-prime,Doo Prime,Doo Financial Australia Limited,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,222650,,222650,true
 startrader,STARTRADER,STARTRADER Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T2,AFSL,421210,,421210,true
 startrader,STARTRADER,STARTRADER International Pty Ltd,FSCA,FSCA,南非 FSCA,,,FSP,52464,,52464,true
@@ -179,6 +185,12 @@ swissquote,Swissquote,Swissquote South Africa (Pty) Ltd,FSCA,FSCA,南非 FSCA,,,
 swissquote,Swissquote,Swissquote Bank Europe SA,CSSF,Commission de Surveillance du Secteur Financier (CSSF),Commission de Surveillance du Secteur Financier (CSSF),卢森堡,T3,LEI,549300M2IHOB9P5WE714,MiCA CASP 授权,MiCA CASP 授权 · LEI 549300M2IHOB9P5WE714,true
 wegolden,WeGolden,WeGolden Group,FSCA,FSCA,南非 FSCA,南非,T2,FSP,53890,,53890,true
 sfc-abf168,313資本管理有限公司,313 Capital Management Limited,SFC,SFC,SFC,中国香港,T1,CE,ABF168,第2类 期货合约交易；第4类 就证券提供意见；第5类 就期货合约提供意见；第9类 提供资产管理,CE ABF168 · 第2类 期货合约交易；第4类 就证券提供意见；第5类 就期货合约提供意见；第9类 提供资产管理,true
+capital-com,Capital.com,Capital Com (UK) Ltd,FCA,FCA,英国 FCA,,T1,FRN,793714,,793714,true
+capital-com,Capital.com,Capital Com (UK) Ltd,ASIC,ASIC,澳洲 ASIC,,T1,AFSL,513393,,513393,true
+capital-com,Capital.com,Capital Com South Africa (Pty) Ltd,FSCA,FSCA,南非 FSCA,,,FSP,55488,,55488,true
+capital-com,Capital.com,Capital Com Investments (Bermuda) Ltd,BMA,BMA,BMA,百慕大,T2,ref,,DAB Class F · 注册号 202201970 · 2025-04-15 起,DAB Class F · 注册号 202201970 · 2025-04-15 起,true
+capital-com,Capital.com,CAPITAL VAULT LTD,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,984500C46B3B7B69Y904,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500C46B3B7B69Y904,true
+capital-com,Capital.com,Capital Com Investments (Bermuda) Ltd,BMA,BMA,BMA,百慕大,T2,ref,,DAB Class F · 注册号 202201970,DAB Class F · 注册号 202201970,true
 sfc-ane045,CC SIF Advisory,CC SIF Advisory Limited,SFC,SFC,SFC,中国香港,T1,CE,ANE045,第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,CE ANE045 · 第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,true
 sfc-aac212,DBS Bank,DBS Bank Ltd.,SFC,SFC,SFC,中国香港,T1,CE,AAC212,第1类 证券交易；第2类 期货合约交易；第4类 就证券提供意见；第6类 就机构融资提供意见,CE AAC212 · 第1类 证券交易；第2类 期货合约交易；第4类 就证券提供意见；第6类 就机构融资提供意见,true
 sfc-aak077,Deutsche Bank Aktiengesellschaft,Deutsche Bank Aktiengesellschaft,SFC,SFC,SFC,中国香港,T1,CE,AAK077,第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,CE AAK077 · 第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第9类 提供资产管理,true
@@ -324,7 +336,6 @@ sfc-btt175,Atlascap Invest,Atlascap Invest Limited,SFC,SFC,SFC,中国香港,T1,C
 sfc-aur302,Bank Julius Baer & Co.,Bank Julius Baer & Co. Ltd.,SFC,SFC,SFC,中国香港,T1,CE,AUR302,第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,CE AUR302 · 第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,true
 sfc-aak796,"Bank of America, National Association","Bank of America, National Association",SFC,SFC,SFC,中国香港,T1,CE,AAK796,第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见,CE AAK796 · 第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见,true
 sfc-bmg891,Banque Pictet & Cie SA,Banque Pictet & Cie SA,SFC,SFC,SFC,中国香港,T1,CE,BMG891,第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,CE BMG891 · 第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,true
-sfc-aaj160,Barclays Bank PLC,Barclays Bank PLC,SFC,SFC,SFC,中国香港,T1,CE,AAJ160,第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见,CE AAJ160 · 第1类 证券交易；第4类 就证券提供意见；第6类 就机构融资提供意见,true
 sfc-bnu616,BAXS Digital Asset Capital,BAXS Digital Asset Capital Limited,SFC,SFC,SFC,中国香港,T1,CE,BNU616,第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,CE BNU616 · 第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,true
 sfc-bty375,Blue Box Securities,Blue Box Securities Limited,SFC,SFC,SFC,中国香港,T1,CE,BTY375,第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,CE BTY375 · 第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,true
 sfc-bty381,Blue Ribbon Capital,Blue Ribbon Capital Limited,SFC,SFC,SFC,中国香港,T1,CE,BTY381,第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,CE BTY381 · 第1类 证券交易；第4类 就证券提供意见；第9类 提供资产管理,true
@@ -1810,23 +1821,19 @@ eto-markets,ETO Markets,ETO GROUP PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,A
 fxt,FXT 格伦外汇,GLENEAGLE SECURITIES (AUST) PTY LIMITED,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 337985,AFSL 337985,true
 iexs,IEXS 盈十证券,IEXS MARKETS PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 541328,AFSL 541328,true
 trading-212,Trading 212,Trading 212 UK Ltd,FCA,FCA,英国 FCA,,T1,FRN,609146,,609146,true
-trading-212,Trading 212,Trading 212 Markets Ltd,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,21380045KC28948FNE32,MiCA CASP 授权,MiCA CASP 授权 · LEI 21380045KC28948FNE32,true
-trading-com,Trading.com,Trading.com Markets EU Ltd,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,213800QT8WZK738XGX35,MiCA CASP 授权,MiCA CASP 授权 · LEI 213800QT8WZK738XGX35,true
-capital-com,Capital.com,Capital Com (UK) Ltd,FCA,FCA,英国 FCA,,T1,FRN,793714,,793714,true
-capital-com,Capital.com,Capital Com (UK) Ltd,ASIC,ASIC,澳洲 ASIC,,T1,AFSL,513393,,513393,true
-capital-com,Capital.com,Capital Com South Africa (Pty) Ltd,FSCA,FSCA,南非 FSCA,,,FSP,55488,,55488,true
-capital-com,Capital.com,CAPITAL VAULT LTD,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,984500C46B3B7B69Y904,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500C46B3B7B69Y904,true
+trading-212,Trading 212,Trading 212 Markets Ltd,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,21380045KC28948FNE32,MiCA CASP 授权,MiCA CASP 授权 · LEI 21380045KC28948FNE32,true
+trading-com,Trading.com,Trading.com Markets EU Ltd,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,213800QT8WZK738XGX35,MiCA CASP 授权,MiCA CASP 授权 · LEI 213800QT8WZK738XGX35,true
 ec-markets,EC Markets,EC MARKETS FINANCIAL LIMITED,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 414198,AFSL 414198,true
 etoro,eToro,eToro Group Ltd.,FCA,FCA,英国 FCA,,T2,FRN,583263,,583263,true
 etoro,eToro,eToro Group Ltd.,ASIC,ASIC,澳洲 ASIC,,T2,AFSL,491139,,491139,true
-etoro,eToro,eToro (Europe) Ltd,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,213800GIFQMSV7HROS23,MiCA CASP 授权,MiCA CASP 授权 · LEI 213800GIFQMSV7HROS23,true
+etoro,eToro,eToro (Europe) Ltd,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,213800GIFQMSV7HROS23,MiCA CASP 授权,MiCA CASP 授权 · LEI 213800GIFQMSV7HROS23,true
 ltg,LTG,LTG Gold Rock Pty Ltd,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 286510,AFSL 286510,true
 invast-global,Invast Global,Invast Global Pty Ltd,ASIC,ASIC,澳洲 ASIC,澳大利亚,T1,AFSL,438283,,438283,true
 accm,ACCM,ACCM PRIME PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 308159,AFSL 308159,true
 kcm-trade,KCM Trade,KOHLE CAPITAL MARKETS PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 489437,AFSL 489437,true
 neex,Neex,NEEX PRIME PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 335126,AFSL 335126,true
 cm-trading,CM Trading,CM Trading,FSCA,FSCA,南非 FSCA,南非,T2,FSP,38782,,38782,true
-oexn-limited,OEXN Limited,OEXN Limited,CySEC,CYSEC,CYSEC,塞浦路斯,T2,CIF,423/22,,CIF 423/22,true
+oexn-limited,OEXN Limited,OEXN Limited,CySEC,CySEC,CYSEC,塞浦路斯,T2,CIF,423/22,,CIF 423/22,true
 sfc-auq298,AlphaGold Securities,AlphaGold Securities Limited,SFC,SFC,SFC,中国香港,T1,CE,AUQ298,第1类 证券交易；第2类 期货合约交易；第3类 杠杆式外汇交易；第4类 就证券提供意见；第5类 就期货合约提供意见；第9类 提供资产管理,CE AUQ298 · 第1类 证券交易；第2类 期货合约交易；第3类 杠杆式外汇交易；第4类 就证券提供意见；第5类 就期货合约提供意见；第9类 提供资产管理,true
 sfc-bum667,AT Global Financial Services (HK),AT Global Financial Services (HK) Limited,SFC,SFC,SFC,中国香港,T1,CE,BUM667,第3类 杠杆式外汇交易,CE BUM667 · 第3类 杠杆式外汇交易,true
 sfc-aaf778,Brown Brothers Harriman (Hong Kong),Brown Brothers Harriman (Hong Kong) Limited,SFC,SFC,SFC,中国香港,T1,CE,AAF778,第1类 证券交易；第3类 杠杆式外汇交易,CE AAF778 · 第1类 证券交易；第3类 杠杆式外汇交易,true
@@ -1875,35 +1882,38 @@ orbex,Orbex,Orbex Ltd,FCA,FCA,英国 FCA,,T3,FRN,553071,,553071,true
 q8-trade,Q8 Trade,MARKETFINANCIALS LIMITED,FSA,FSA,FSA,塞舌尔,T3,ref,SD006,证券交易商 · SD006（注册号 8413711-1）,证券交易商 · SD006（注册号 8413711-1）,false
 huatai-securities,HUATAI SECURITIES 华泰证券,Huatai Financial Holdings (Hong Kong) Limited,SFC,SFC,SFC,中国香港,T1,CE,AOK809,第1类 证券交易；第2类 期货合约交易；第3类 杠杆式外汇交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第7类 提供自动化交易服务；第9类 提供资产管理,CE AOK809 · 第1类 证券交易；第2类 期货合约交易；第3类 杠杆式外汇交易；第4类 就证券提供意见；第6类 就机构融资提供意见；第7类 提供自动化交易服务；第9类 提供资产管理,true
 b253,亨达国际金融,HANTEC MARKETS (AUSTRALIA) PTY LIMITED,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 326907,AFSL 326907,true
+kraken,Kraken,Payward Digital Solutions Ltd.（Kraken 母公司 Payward 百慕大实体）,BMA,BMA,BMA,百慕大,T2,ref,,DAB Class F · 注册号 202403268 · 2024-08-01 起,DAB Class F · 注册号 202403268 · 2024-08-01 起,true
 wmax,WMAX 威马证券,WMAX PRIME PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 480392,AFSL 480392,true
 fortune-prime-global,Fortune Prime Global,FORTUNE PRIME GLOBAL CAPITAL PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 400364,AFSL 400364,true
 b266,英皇金融集团,英皇金融集团（香港）有限公司,SFC,SFC,SFC,中国香港,T1,CE,ACJ776,第 3 类杠杆式外汇交易,CE ACJ776 · 第 3 类杠杆式外汇交易,true
 decode-global,Decode Global,DECODE CAPITAL PTY LTD,ASIC,ASIC,ASIC,澳大利亚,T1,AFSL,,AFSL 246796,AFSL 246796,true
-bitstamp,Bitstamp,Bitstamp Europe S.A.,CSSF,Commission de Surveillance du Secteur Financier (CSSF),Commission de Surveillance du Secteur Financier (CSSF),卢森堡,T3,LEI,549300XIBGTJ0PLIEO72,MiCA CASP 授权,MiCA CASP 授权 · LEI 549300XIBGTJ0PLIEO72,true
 coinbase,Coinbase,Coinbase Luxembourg S.A.,CSSF,Commission de Surveillance du Secteur Financier (CSSF),Commission de Surveillance du Secteur Financier (CSSF),卢森堡,T3,LEI,984500F14CA4571AAC11,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500F14CA4571AAC11,true
+coinbase,Coinbase,Coinbase Bermuda Limited,BMA,BMA,BMA,百慕大,T2,ref,,DAB Class F · 注册号 202302164,DAB Class F · 注册号 202302164,true
+bitstamp,Bitstamp,Bitstamp Europe S.A.,CSSF,Commission de Surveillance du Secteur Financier (CSSF),Commission de Surveillance du Secteur Financier (CSSF),卢森堡,T3,LEI,549300XIBGTJ0PLIEO72,MiCA CASP 授权,MiCA CASP 授权 · LEI 549300XIBGTJ0PLIEO72,true
 gate-io,Gate.io,Gate Technology Ltd,MFSA,MFSA,MFSA,马耳他,T2,MFSA,GTEC-25238,MiCA CASP · GTEC-25238（另 FI · GTEC-25926）,MiCA CASP · GTEC-25238（另 FI · GTEC-25926）,true
 gate-io,Gate.io,Gate Technology FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/25/04/007,VASP 交易服务 · VL/25/04/007,VASP 交易服务 · VL/25/04/007,true
 binance,Binance,Binance FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/24/04/001,VASP · VL/24/04/001,VASP · VL/24/04/001,true
 binance,Binance,Binance Japan Inc.,FSA,FSA,FSA,日本,T1,ref,,加密资产交换业者登记（关东财务局 第00031号）,加密资产交换业者登记（关东财务局 第00031号）,true
-bingx,BingX,MEGE zweite GmbH（BingX EU）,FMA-AT,FMA-AT,FMA-AT,奥地利,T2,LEI,984500G149054BADD925,MiCA CASP,MiCA CASP · LEI 984500G149054BADD925,true
+bybit,Bybit,Bybit EU GmbH,FMA-AT,Austrian Financial Market Authority (FMA),Austrian Financial Market Authority (FMA),奥地利,T3,LEI,5299005V5GBSN2A4C303,MiCA CASP 授权,MiCA CASP 授权 · LEI 5299005V5GBSN2A4C303,true
+bybit,Bybit,Bybit Limited (AIFC 子公司),AFSA,AFSA,AFSA,哈萨克斯坦,T2,ref,AFSA-A-LA-2024-0027,,AFSA-A-LA-2024-0027,true
+bingx,BingX,MEGE zweite GmbH（BingX EU）,FMA,FMA,FMA-AT,,T2,LEI,984500G149054BADD925,MiCA CASP,MiCA CASP · LEI 984500G149054BADD925,true
 cex-binance-futures,Binance Futures,Binance FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/24/04/001,VASP · VL/24/04/001（含 VA Derivatives Trading）,VASP · VL/24/04/001（含 VA Derivatives Trading）,true
 cex-binance-options,Binance Options,Binance FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/24/04/001,VASP · VL/24/04/001（含 VA Derivatives Trading）,VASP · VL/24/04/001（含 VA Derivatives Trading）,true
 cex-crypto-com-derivatives,Crypto.com (Derivatives),Foris DAX Middle East FZE (Crypto.com),VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/23/10/003,VASP · VL/23/10/003（含 VA Derivatives Trading）,VASP · VL/23/10/003（含 VA Derivatives Trading）,true
 cex-okx-derivatives,OKX (Derivatives),OKX Middle East Fintech FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/23/12/003,VASP · VL/23/12/003（含 VA Derivatives Trading）,VASP · VL/23/12/003（含 VA Derivatives Trading）,true
 cex-okx-options,OKX Options,OKX Middle East Fintech FZE,VARA,VARA,VARA,阿联酋迪拜,T2,VASP,VL/23/12/003,VASP · VL/23/12/003（含 VA Derivatives Trading）,VASP · VL/23/12/003（含 VA Derivatives Trading）,true
-bybit,Bybit,Bybit EU GmbH,FMA-AT,Austrian Financial Market Authority (FMA),Austrian Financial Market Authority (FMA),奥地利,T3,LEI,5299005V5GBSN2A4C303,MiCA CASP 授权,MiCA CASP 授权 · LEI 5299005V5GBSN2A4C303,true
 okx,OKX,OKX Europe Limited,MFSA,MFSA,MFSA,马耳他,T3,LEI,54930069NLWEIGLHXU42,MiCA CASP 授权,MiCA CASP 授权 · LEI 54930069NLWEIGLHXU42,true
 casp-21bitcoin,21bitcoin,FIOR Digital GmbH,FMA-AT,Austrian Financial Market Authority (FMA),Austrian Financial Market Authority (FMA),奥地利,T3,LEI,529900HMYYJR2NHVZ124,MiCA CASP 授权,MiCA CASP 授权 · LEI 529900HMYYJR2NHVZ124,true
 casp-360-treasury-systems-ag,360 Treasury Systems AG,360 Treasury Systems AG,BaFin,Federal Financial Supervisory Authority (BaFin),Federal Financial Supervisory Authority (BaFin),德国,T3,LEI,529900P0204W9HA8JP36,MiCA CASP 授权,MiCA CASP 授权 · LEI 529900P0204W9HA8JP36,true
-casp-acheron-acheron-trading,Acheron | Acheron Trading,Acheron Europe B.V.,AFM,Netherlands Authority for the Financial Markets (AFM),Netherlands Authority for the Financial Markets (AFM),荷兰,T3,LEI,699400TPXCI7R4A0NG65,MiCA CASP 授权,MiCA CASP 授权 · LEI 699400TPXCI7R4A0NG65,true
+casp-acheron-acheron-trading,Acheron,Acheron Europe B.V.,AFM,Netherlands Authority for the Financial Markets (AFM),Netherlands Authority for the Financial Markets (AFM),荷兰,T3,LEI,699400TPXCI7R4A0NG65,MiCA CASP 授权,MiCA CASP 授权 · LEI 699400TPXCI7R4A0NG65,true
 casp-alaric-securities,Alaric Securities,Alaric Securities OOD,FSC-BG,Financial Supervision Commission (FSC),Financial Supervision Commission (FSC),保加利亚,T3,LEI,549300I48OJHSE9OZS95,MiCA CASP 授权,MiCA CASP 授权 · LEI 549300I48OJHSE9OZS95,true
 casp-alpharoute,AlphaRoute,SIA AlphaRoute,Latvijas Banka,Latvijas Banka,Latvijas Banka,拉脱维亚,T3,LEI,259400JCJJ78A4ZCXP93,MiCA CASP 授权,MiCA CASP 授权 · LEI 259400JCJJ78A4ZCXP93 ,true
 casp-altcoins,Altcoins,Altcoins BG EООD,FSC-BG,Financial Supervision Commission (FSC),Financial Supervision Commission (FSC),保加利亚,T3,LEI,984500FBAE2EDEF1C317,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500FBAE2EDEF1C317,true
-casp-amdax-b-v-amdax-group,Amdax B.V.|Amdax Group,Amdax B.V.,AFM,Netherlands Authority for the Financial Markets (AFM),Netherlands Authority for the Financial Markets (AFM),荷兰,T3,LEI,724500T7PFN30PF3ZQ87,MiCA CASP 授权,MiCA CASP 授权 · LEI 724500T7PFN30PF3ZQ87,true
+casp-amdax-b-v-amdax-group,Amdax,Amdax B.V.,AFM,Netherlands Authority for the Financial Markets (AFM),Netherlands Authority for the Financial Markets (AFM),荷兰,T3,LEI,724500T7PFN30PF3ZQ87,MiCA CASP 授权,MiCA CASP 授权 · LEI 724500T7PFN30PF3ZQ87,true
 casp-amina-eu,AMINA EU,AMINA (Austria) AG,FMA-AT,Austrian Financial Market Authority (FMA),Austrian Financial Market Authority (FMA),奥地利,T3,LEI,5299005I4LYIFW7GKB54,MiCA CASP 授权,MiCA CASP 授权 · LEI 5299005I4LYIFW7GKB54,true
 casp-aplo,APLO,APLO SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500YKHZ31GZ7AAU02,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500YKHZ31GZ7AAU02,true
-casp-aquilla-nummus-ltd,Aquilla Nummus Ltd,Aquilla Nummus Ltd,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,549300ZCGZNVDA6R3Y84,MiCA CASP 授权,MiCA CASP 授权 · LEI 549300ZCGZNVDA6R3Y84,true
-casp-ari10-ari10-nl-web3-technology-b-v-rgltd,Ari10 | Ari10 NL |  WEB3 Technology B.V. | RGLTD Cashify,WEB3 Technology B.V.,AFM,Netherlands Authority for the Financial Markets (AFM),Netherlands Authority for the Financial Markets (AFM),荷兰,T3,LEI,724500YJVIN0Q94ZZG58,MiCA CASP 授权,MiCA CASP 授权 · LEI 724500YJVIN0Q94ZZG58,true
+casp-aquilla-nummus-ltd,Aquilla Nummus Ltd,Aquilla Nummus Ltd,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,549300ZCGZNVDA6R3Y84,MiCA CASP 授权,MiCA CASP 授权 · LEI 549300ZCGZNVDA6R3Y84,true
+casp-ari10-ari10-nl-web3-technology-b-v-rgltd,Ari10,WEB3 Technology B.V.,AFM,Netherlands Authority for the Financial Markets (AFM),Netherlands Authority for the Financial Markets (AFM),荷兰,T3,LEI,724500YJVIN0Q94ZZG58,MiCA CASP 授权,MiCA CASP 授权 · LEI 724500YJVIN0Q94ZZG58,true
 casp-backpack-eu,Backpack EU,"""Trek Technologies"" SIA",Latvijas Banka,Latvijas Banka,Latvijas Banka,拉脱维亚,T3,LEI,6488C2PNI17093U2YA18,MiCA CASP 授权,MiCA CASP 授权 · LEI 6488C2PNI17093U2YA18,true
 casp-baden-w-rttembergische-wertpapierb-rse-g,Baden-Württembergische Wertpapierbörse GmbH,Baden-Württembergische Wertpapierbörse GmbH,BaFin,Federal Financial Supervisory Authority (BaFin),Federal Financial Supervisory Authority (BaFin),德国,T3,LEI,529900A0WHA0NVXY0G45,MiCA CASP 授权,MiCA CASP 授权 · LEI 529900A0WHA0NVXY0G45,true
 casp-banque-delubac,BANQUE DELUBAC,BANQUE DELUBAC ET CIE,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500A4IPKVUBH3CA90,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500A4IPKVUBH3CA90,true
@@ -1932,9 +1942,9 @@ casp-blox-b-v,BLOX B.V.,BLOX B.V.,AFM,Netherlands Authority for the Financial Ma
 casp-btc-direct-europe-b-v,BTC Direct Europe B.V.,BTC Direct Europe B.V.,AFM,Netherlands Authority for the Financial Markets (AFM),Netherlands Authority for the Financial Markets (AFM),荷兰,T3,LEI,724500C4D3LQAKCEZ198,MiCA CASP 授权,MiCA CASP 授权 · LEI 724500C4D3LQAKCEZ198,true
 casp-bullish-europe-gmbh,Bullish Europe GmbH,Bullish Europe GmbH,BaFin,Federal Financial Supervisory Authority (BaFin),Federal Financial Supervisory Authority (BaFin),德国,T3,LEI,2549008CBASK5Q680X12,MiCA CASP 授权,MiCA CASP 授权 · LEI 2549008CBASK5Q680X12,true
 casp-calamatta-cuschieri-investment-services-,Calamatta Cuschieri Investment Services Limited,Calamatta Cuschieri Investment Services Limited,MFSA,MFSA,MFSA,马耳他,T3,LEI,391200EKTIW0OR813R66,MiCA CASP 授权,MiCA CASP 授权 · LEI 391200EKTIW0OR813R66,true
-casp-change-change-invest-getchange-com-chang,Change | Change Invest | getchange.com | ChangePro | changeinvest.com | AgenaTrader | agenatrader.com| TradersYard | tradersyard.com,Change Securities B.V.,AFM,Netherlands Authority for the Financial Markets (AFM),Netherlands Authority for the Financial Markets (AFM),荷兰,T3,LEI,7245009PUAT6U71IXZ51,MiCA CASP 授权,MiCA CASP 授权 · LEI 7245009PUAT6U71IXZ51,true
+casp-change-change-invest-getchange-com-chang,Change Invest,Change Securities B.V.,AFM,Netherlands Authority for the Financial Markets (AFM),Netherlands Authority for the Financial Markets (AFM),荷兰,T3,LEI,7245009PUAT6U71IXZ51,MiCA CASP 授权,MiCA CASP 授权 · LEI 7245009PUAT6U71IXZ51,true
 casp-checksig,CheckSig,CHECKSIG S.R.L. SOCIETÀ BENEFIT,CONSOB,Commissione Nazionale per le Societa e la Borsa (CONSOB),Commissione Nazionale per le Societa e la Borsa (CONSOB),意大利,T3,LEI,8156006C715AAACC5D19,MiCA CASP 授权,MiCA CASP 授权 · LEI 8156006C715AAACC5D19,true
-casp-cloverum,Cloverum,Cloverum Finance (CY) Limited,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,213800IWLH982X74LO71,MiCA CASP 授权,MiCA CASP 授权 · LEI 213800IWLH982X74LO71,true
+casp-cloverum,Cloverum,Cloverum Finance (CY) Limited,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,213800IWLH982X74LO71,MiCA CASP 授权,MiCA CASP 授权 · LEI 213800IWLH982X74LO71,true
 casp-coincash,CoinCash,Tiwala Solutions Korlátolt Felelősségű Társaság,MNB,Central Bank of Hungary (MNB),Central Bank of Hungary (MNB),匈牙利,T3,LEI,984500B702FE8F637752,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500B702FE8F637752,true
 casp-coinfinity,Coinfinity,Coinfinity GmbH,FMA-AT,Austrian Financial Market Authority (FMA),Austrian Financial Market Authority (FMA),奥地利,T3,LEI,529900BSNR4XPZ6WBK17,MiCA CASP 授权,MiCA CASP 授权 · LEI 529900BSNR4XPZ6WBK17,true
 casp-coinflip,CoinFlip,OLLIV ITALIA S.R.L.,CONSOB,Commissione Nazionale per le Societa e la Borsa (CONSOB),Commissione Nazionale per le Societa e la Borsa (CONSOB),意大利,T3,LEI,81560042B094A85D8F89,MiCA CASP 授权,MiCA CASP 授权 · LEI 81560042B094A85D8F89,true
@@ -1975,7 +1985,7 @@ casp-floin-ag,Floin AG,Floin AG,FMA-LI,Finanzmarktaufsicht (FMA),Finanzmarktaufs
 casp-flowdesk-europe,FLOWDESK EUROPE,FLOWDESK EUROPE SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,984500AB011S3AEF6706,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500AB011S3AEF6706,true
 casp-fumbi,FUMBI,"FUMBI, s.r.o.",NBS,National Bank of Slovakia (NBS),National Bank of Slovakia (NBS),斯洛伐克,T3,LEI,097900CAKA0000269926,MiCA CASP 授权,MiCA CASP 授权 · LEI 097900CAKA0000269926,true
 casp-gatehub-exchange,GateHub Exchange,GateHub Exchange družba za izvajanje storitev v zvezi s kriptosredstvi d.o.o.,ATVP,Securities Market Agency (ATVP),Securities Market Agency (ATVP),斯洛文尼亚,T3,LEI,485100FKB79GMCXY4P55,MiCA CASP 授权,MiCA CASP 授权 · LEI 485100FKB79GMCXY4P55,true
-casp-gcex-gc-exchange,GCEX|GC Exchange,GC Exchange A/S,Finanstilsynet,Finanstilsynet,Finanstilsynet,丹麦,T3,LEI,254900TM3KOYH0SY8V19,MiCA CASP 授权,MiCA CASP 授权 · LEI 254900TM3KOYH0SY8V19,true
+casp-gcex-gc-exchange,GCEX,GC Exchange A/S,Finanstilsynet,Finanstilsynet,Finanstilsynet,丹麦,T3,LEI,254900TM3KOYH0SY8V19,MiCA CASP 授权,MiCA CASP 授权 · LEI 254900TM3KOYH0SY8V19,true
 casp-goin,GOIN,GOin SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,894500LM6DICD790FQ34,MiCA CASP 授权,MiCA CASP 授权 · LEI 894500LM6DICD790FQ34,true
 casp-hercle,Hercle,HERCLE S.R.L.,CONSOB,Commissione Nazionale per le Societa e la Borsa (CONSOB),Commissione Nazionale per le Societa e la Borsa (CONSOB),意大利,T3,LEI,984500AEBA8A0HQ44988,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500AEBA8A0HQ44988,true
 casp-hexarq,HEXARQ,HEXARQ SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500TD4VXAOPXPVW02,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500TD4VXAOPXPVW02,true
@@ -1990,13 +2000,13 @@ casp-joh-berenberg-gossler-co-kg,"Joh. Berenberg, Gossler & Co. KG","Joh. Berenb
 casp-justtrade,justTRADE,JT Technologies GmbH,BaFin,Federal Financial Supervisory Authority (BaFin),Federal Financial Supervisory Authority (BaFin),德国,T3,LEI,529900YERL5TV5YJCR45,MiCA CASP 授权,MiCA CASP 授权 · LEI 529900YERL5TV5YJCR45,true
 casp-keyrock,KEYROCK,KEYROCK FR SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,9845001BAFC53ODN8C90,MiCA CASP 授权,MiCA CASP 授权 · LEI 9845001BAFC53ODN8C90,true
 casp-kriptomat,KRIPTOMAT,Bitblock Ltd. for Services,HANFA,Croatian Financial Services Supervisory Agency (HANFA),Croatian Financial Services Supervisory Agency (HANFA),克罗地亚,T3,LEI,9845006A6CAABE4C0347,MiCA CASP 授权,MiCA CASP 授权 · LEI 9845006A6CAABE4C0347,true
-casp-krypto-knight,KRYPTO KNIGHT,Krypto Knight Ltd,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,984500I2EA955E934537,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500I2EA955E934537,true
+casp-krypto-knight,KRYPTO KNIGHT,Krypto Knight Ltd,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,984500I2EA955E934537,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500I2EA955E934537,true
 casp-kucoin-eu,KuCoin EU,KuCoin EU Exchange GmbH,FMA-AT,Austrian Financial Market Authority (FMA),Austrian Financial Market Authority (FMA),奥地利,T3,LEI,529900B4G0EGK7Z9KT45,MiCA CASP 授权,MiCA CASP 授权 · LEI 529900B4G0EGK7Z9KT45,true
 casp-kvarn-x,Kvarn X,Kvarn Capital Oy,FIN-FSA,Finanssivalvonta (FIN-FSA),Finanssivalvonta (FIN-FSA),芬兰,T3,LEI,9845009F15A5B9FD7F45,MiCA CASP 授权,MiCA CASP 授权 · LEI 9845009F15A5B9FD7F45,true
 casp-lang-schwarz-tradecenter-ag-co-kg,Lang & Schwarz TradeCenter AG & Co. KG,Lang & Schwarz TradeCenter AG & Co. KG,BaFin,Federal Financial Supervisory Authority (BaFin),Federal Financial Supervisory Authority (BaFin),德国,T3,LEI,5299000TZ4OSOOGU1120,MiCA CASP 授权,MiCA CASP 授权 · LEI 5299000TZ4OSOOGU1120,true
 casp-legend-trading,Legend Trading,Legend Financial Ireland Limited,CBI,Central Bank of Ireland (CBI),Central Bank of Ireland (CBI),爱尔兰,T3,LEI,9845007FA1A8E1DE3989,MiCA CASP 授权,MiCA CASP 授权 · LEI 9845007FA1A8E1DE3989,true
 casp-lunar-block,Lunar Block,Lunar Block A/S,Finanstilsynet,Finanstilsynet,Finanstilsynet,丹麦,T3,LEI,984500DD714F66B77454,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500DD714F66B77454,true
-casp-madison-six-crypto4me,Madison Six|crypto4me,Madison Six j. s. a.,NBS,National Bank of Slovakia (NBS),National Bank of Slovakia (NBS),斯洛伐克,T3,LEI,097900CAKA0000249459,MiCA CASP 授权,MiCA CASP 授权 · LEI 097900CAKA0000249459,true
+casp-madison-six-crypto4me,Madison Six,Madison Six j. s. a.,NBS,National Bank of Slovakia (NBS),National Bank of Slovakia (NBS),斯洛伐克,T3,LEI,097900CAKA0000249459,MiCA CASP 授权,MiCA CASP 授权 · LEI 097900CAKA0000249459,true
 casp-meatal-gear,MEATAL GEAR,METAL GEAR SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500PQYLQG3CSJ5041,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500PQYLQG3CSJ5041,true
 casp-meria,MERIA,MERIA SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500UJSWU20FEXQ504,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500UJSWU20FEXQ504,true
 casp-micar-assets,Micar Assets,UAB Micar assets,LSC,Bank of Lithuania (LSC),Bank of Lithuania (LSC),立陶宛,T3,LEI,894500R6HJP62BZX4M89,MiCA CASP 授权,MiCA CASP 授权 · LEI 894500R6HJP62BZX4M89,true
@@ -2015,7 +2025,7 @@ casp-one-trading-exchange-b-v,One Trading Exchange B.V.,One Trading Exchange B.V
 casp-orcabay,Orcabay,Orcabay finančne storitve d.o.o.,ATVP,Securities Market Agency (ATVP),Securities Market Agency (ATVP),斯洛文尼亚,T3,LEI,485100OLL2HA92JDWC71,MiCA CASP 授权,MiCA CASP 授权 · LEI 485100OLL2HA92JDWC71,true
 casp-osl-eu,OSL EU,OSL EU GmbH,FMA-AT,Austrian Financial Market Authority (FMA),Austrian Financial Market Authority (FMA),奥地利,T3,LEI,8945001TKX2A5OJMNR45,MiCA CASP 授权,MiCA CASP 授权 · LEI 8945001TKX2A5OJMNR45,true
 casp-penning,Penning,Penning Financial Services ApS,Finanstilsynet,Finanstilsynet,Finanstilsynet,丹麦,T3,LEI,9845000E4A7414709361,MiCA CASP 授权,MiCA CASP 授权 · LEI 9845000E4A7414709361,true
-casp-pm-mtf-ltd,PM MTF LTD,PM MTF LTD,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,2138005EFA978Y43G944,MiCA CASP 授权,MiCA CASP 授权 · LEI 2138005EFA978Y43G944,true
+casp-pm-mtf-ltd,PM MTF LTD,PM MTF LTD,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,2138005EFA978Y43G944,MiCA CASP 授权,MiCA CASP 授权 · LEI 2138005EFA978Y43G944,true
 casp-push-aave-push,Push  / Aave Push,Push Virtual Assets Ireland Limited,CBI,Central Bank of Ireland (CBI),Central Bank of Ireland (CBI),爱尔兰,T3,LEI,635400NEDOJDEJEQZQ77,MiCA CASP 授权,MiCA CASP 授权 · LEI 635400NEDOJDEJEQZQ77,true
 casp-qwarks,QWARKS,QWARKS SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500CMLNBIVUUD9A09,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500CMLNBIVUUD9A09,true
 casp-regular,REGULAR,REGULAR FINANCE SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500Y5SNO2WBYDB059,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500Y5SNO2WBYDB059,true
@@ -2024,21 +2034,21 @@ casp-riv-digital,RIV-Digital,RIV-DIGITAL S.R.L.,CONSOB,Commissione Nazionale per
 casp-robinhood,Robinhood,"Robinhood Europe, UAB",LSC,Bank of Lithuania (LSC),Bank of Lithuania (LSC),立陶宛,T3,LEI,254900GTP4UXQO1UMI36,MiCA CASP 授权,MiCA CASP 授权 · LEI 254900GTP4UXQO1UMI36,true
 casp-rufiji,RUFIJI,RUFIJI CAPITAL SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500FUWSKQEO5J7H72,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500FUWSKQEO5J7H72,true
 casp-rulematch,RULEMATCH,RULEMATCH Europe AG,FMA-LI,Finanzmarktaufsicht (FMA),Finanzmarktaufsicht (FMA),列支敦士登,T3,LEI,529900PEBGKH34UTD845,MiCA CASP 授权,MiCA CASP 授权 · LEI 529900PEBGKH34UTD845,true
-casp-safello-ab,Safello AB,Safello AB,Finansinspektionen,Finansinspektionen,Finansinspektionen ,,T3,LEI,894500QKMN1PCG2V7U40,MiCA CASP 授权,MiCA CASP 授权 · LEI 894500QKMN1PCG2V7U40,true
+casp-safello-ab,Safello AB,Safello AB,Finansinspektionen,Finansinspektionen,Finansinspektionen ,瑞典,T3,LEI,894500QKMN1PCG2V7U40,MiCA CASP 授权,MiCA CASP 授权 · LEI 894500QKMN1PCG2V7U40,true
 casp-safelynx,SafeLynx,SafeLynx Technologies ApS,Finanstilsynet,Finanstilsynet,Finanstilsynet,丹麦,T3,LEI,9845003F777K7DFF4E96,MiCA CASP 授权,MiCA CASP 授权 · LEI 9845003F777K7DFF4E96,true
 casp-smart-valor,SMART VALOR,SMART VALOR AG,FMA-LI,Finanzmarktaufsicht (FMA),Finanzmarktaufsicht (FMA),列支敦士登,T3,LEI,254900S56908SP1E8O53,MiCA CASP 授权,MiCA CASP 授权 · LEI 254900S56908SP1E8O53,true
 casp-societe-generale-forge,SOCIETE GENERALE - FORGE,SOCIETE GENERALE - FORGE,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500FX8K40ZDW4F377,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500FX8K40ZDW4F377,true
 casp-socios-com,Socios.com,Socios Europe Services Limited,MFSA,MFSA,MFSA,马耳他,T3,LEI,984500EBA2E9980CDD80,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500EBA2E9980CDD80,true
-casp-solidgate-sg-digital-assets,"Solidgate , SG Digital Assets",SG Digital Assets Limited,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,254900YI6BJ1QQQZIY62,MiCA CASP 授权,MiCA CASP 授权 · LEI 254900YI6BJ1QQQZIY62,true
+casp-solidgate-sg-digital-assets,"Solidgate , SG Digital Assets",SG Digital Assets Limited,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,254900YI6BJ1QQQZIY62,MiCA CASP 授权,MiCA CASP 授权 · LEI 254900YI6BJ1QQQZIY62,true
 casp-stonex,StoneX,StoneX Digital International Limited,CBI,Central Bank of Ireland (CBI),Central Bank of Ireland (CBI),爱尔兰,T3,LEI,98450043FB90T6REA408,MiCA CASP 授权,MiCA CASP 授权 · LEI 98450043FB90T6REA408,true
 casp-strike,Strike,Zap (Strike) Europe Limited,MFSA,MFSA,MFSA,马耳他,T3,LEI,984500457TABOA3BZ224,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500457TABOA3BZ224,true
 casp-swissborg,SWISSBORG,BLOCKNODES SAS,AMF,Autorité des Marchés Financiers (AMF),Autorité des Marchés Financiers (AMF),法国,T3,LEI,969500PZJWT3TD1SUI59,MiCA CASP 授权,MiCA CASP 授权 · LEI 969500PZJWT3TD1SUI59,true
 casp-sygnum-europe,Sygnum Europe,Sygnum Europe AG,FMA-LI,Finanzmarktaufsicht (FMA),Finanzmarktaufsicht (FMA),列支敦士登,T3,LEI,506700NPCDRP5LN89R92,MiCA CASP 授权,MiCA CASP 授权 · LEI 506700NPCDRP5LN89R92,true
-casp-tothemoon,tothemoon,Brilliantscope Trading Limited,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,9845009846V10FGD4840,MiCA CASP 授权,MiCA CASP 授权 · LEI 9845009846V10FGD4840,true
+casp-tothemoon,tothemoon,Brilliantscope Trading Limited,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,9845009846V10FGD4840,MiCA CASP 授权,MiCA CASP 授权 · LEI 9845009846V10FGD4840,true
 casp-tradevest-markets-ag,Tradevest Markets AG,Tradevest Markets AG,BaFin,Federal Financial Supervisory Authority (BaFin),Federal Financial Supervisory Authority (BaFin),德国,T3,LEI,391200KFWD74ZYNEEA30,MiCA CASP 授权,MiCA CASP 授权 · LEI 391200KFWD74ZYNEEA30,true
 casp-tradias-gmbh,Tradias GmbH,Tradias GmbH,BaFin,Federal Financial Supervisory Authority (BaFin),Federal Financial Supervisory Authority (BaFin),德国,T3,LEI,529900FYBTAGIOS54M10,MiCA CASP 授权,MiCA CASP 授权 · LEI 529900FYBTAGIOS54M10,true
 casp-twino,Twino,AS TWINO Investments,Latvijas Banka,Latvijas Banka,Latvijas Banka,拉脱维亚,T3,LEI,984500856AF4DF5FAT57,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500856AF4DF5FAT57,true
-casp-unlimit-crypto-ltd-ex-stable-defi-ltd,Unlimit Crypto Ltd (ex Stable Defi Ltd),Unlimit Crypto Ltd,CySEC,Cyprus Securities and Exchange Commission (CySEC),Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,894500FFZOA2AVGYOA88,MiCA CASP 授权,MiCA CASP 授权 · LEI 894500FFZOA2AVGYOA88 ,true
+casp-unlimit-crypto-ltd-ex-stable-defi-ltd,Unlimit Crypto Ltd (ex Stable Defi Ltd),Unlimit Crypto Ltd,CySEC,CySEC,Cyprus Securities and Exchange Commission (CySEC),塞浦路斯,T3,LEI,894500FFZOA2AVGYOA88,MiCA CASP 授权,MiCA CASP 授权 · LEI 894500FFZOA2AVGYOA88 ,true
 casp-virtu-financial-ireland-limited,Virtu Financial Ireland Limited,Virtu Financial Ireland Limited,CBI,Central Bank of Ireland (CBI),Central Bank of Ireland (CBI),爱尔兰,T3,LEI,549300XG5LFGN1IGYC71,MiCA CASP 授权,MiCA CASP 授权 · LEI 549300XG5LFGN1IGYC71,true
 casp-webot,Webot,Pionew Ireland Limited,CBI,Central Bank of Ireland (CBI),Central Bank of Ireland (CBI),爱尔兰,T3,LEI,984500FD0NZ8949F4363,MiCA CASP 授权,MiCA CASP 授权 · LEI 984500FD0NZ8949F4363,true
 casp-white-tech-ltd,WHITE TECH LTD,WHITE TECH Limited liability company for services,HANFA,Croatian Financial Services Supervisory Agency (HANFA),Croatian Financial Services Supervisory Agency (HANFA),克罗地亚,T3,LEI,254900S52YR70F0BK713,MiCA CASP 授权,MiCA CASP 授权 · LEI 254900S52YR70F0BK713,true

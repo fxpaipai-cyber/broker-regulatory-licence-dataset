@@ -1,7 +1,7 @@
 # 字段字典 / Field dictionary
 
 数据集：全球交易商监管授权与牌照数据集
-快照：2026-11-21
+快照：2026-11-22
 
 `data/*.csv` 均为 UTF-8 with BOM。程序读取请用 `utf-8-sig`。
 
@@ -67,7 +67,7 @@
 
 ## 行数口径 / Row-count semantics
 
-`licences.csv` 为 2056 行牌照明细；`regulators.csv` 三档层级合计 2490 条授权条目（机构×监管机构）。差额 434 条是「注册表确认持牌、但未给出独立编号」的授权，因此没有对应的逐条明细行。**两表不按行一一对应**：要数量看 `regulators.csv`，要编号看 `licences.csv`。
+`licences.csv` 为 2066 行牌照明细；`regulators.csv` 三档层级合计 2519 条授权条目（机构×监管机构）。差额 453 条是「注册表确认持牌、但未给出独立编号」的授权，因此没有对应的逐条明细行。**两表不按行一一对应**：要数量看 `regulators.csv`，要编号看 `licences.csv`。
 
 ## 枚举值 / Enumerations
 

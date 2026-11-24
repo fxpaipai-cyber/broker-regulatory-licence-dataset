@@ -1,12 +1,12 @@
 ﻿slug,name,legal_entity,headquarters,category,tier,score_total,score_grade,score_reg,score_breadth,score_prod,score_platform,score_type,score_source,skipped_dims,licence_count,regulator_count,regions,platforms,has_conditions,verified,source,profile_url
 pepperstone,Pepperstone,Pepperstone Group Ltd,澳大利亚,零售CFD,T1,9.41,AAA,9.9,8.0,9.2,10.0,10.0,10.0,,3,7,英国|澳大利亚|塞浦路斯|德国|阿联酋迪拜|肯尼亚|巴哈马,MT4|MT5|cTrader|自有平台|TV,true,true,监管注册表/官网,https://paipaifx.com/b/pepperstone.html
+ig-group,IG Group,IG Group Holdings plc,英国,零售CFD,T1,9.00,AAA,9.8,7.0,9.2,8.25,10.0,10.0,,3,7,英国|澳大利亚|新加坡|日本|美国|百慕大,MT4|MT5|自有平台|IG自有,true,true,监管注册表/官网,https://paipaifx.com/b/ig-group.html
 cfi-financial,CFI Financial,CFI Financial Group,阿联酋,零售CFD,T1,8.88,AA,8.9,8.0,9.2,8.25,10.0,10.0,,2,7,英国|塞浦路斯|阿联酋迪拜|阿联酋|南非|毛里求斯|瓦努阿图,MT4|MT5|自有平台|自有|TV,false,true,监管注册表/官网,https://paipaifx.com/b/cfi-financial.html
+cmc-markets,CMC Markets,CMC Markets plc,英国,零售CFD,T1,8.75,AA,9.8,7.0,9.2,5.75,10.0,10.0,,3,6,英国|澳大利亚|新加坡|日本|德国|百慕大,MT4|自有平台,true,true,监管注册表/官网,https://paipaifx.com/b/cmc-markets.html
 interactive-brokers,Interactive Brokers,"Interactive Brokers Group, Inc.",美国,零售CFD,T1,8.75,AA,9.5,8.0,10.0,3.25,10.0,10.0,,2,10,美国|英国|澳大利亚|加拿大|中国香港|新加坡|日本,TWS|IBKR,false,true,监管注册表/官网,https://paipaifx.com/b/interactive-brokers.html
-ig-group,IG Group,IG Group Holdings plc,英国,零售CFD,T1,8.69,AA,9.5,6.0,9.2,8.25,10.0,10.0,,2,6,英国|澳大利亚|新加坡|日本|美国,MT4|MT5|自有平台|IG自有,true,true,监管注册表/官网,https://paipaifx.com/b/ig-group.html
 thinkmarkets,ThinkMarkets,TF Global Markets (UK) Ltd,澳大利亚,零售CFD,T1,8.66,AA,9.4,6.0,9.2,8.25,10.0,10.0,,3,5,英国|澳大利亚|塞浦路斯|南非|阿联酋迪拜,MT4|MT5|自有平台|ThinkTrader,true,true,监管注册表/官网,https://paipaifx.com/b/thinkmarkets.html
 forex-com,FOREX.com,StoneX Group Inc.,美国,零售CFD,T1,8.60,AA,9.8,5.0,9.2,8.25,10.0,10.0,,2,5,美国|英国|澳大利亚|塞浦路斯,MT4|MT5|自有平台|自有,true,true,监管注册表/官网,https://paipaifx.com/b/forex-com.html
-cmc-markets,CMC Markets,CMC Markets plc,英国,零售CFD,T1,8.44,A,9.5,6.0,9.2,5.75,10.0,10.0,,2,5,英国|澳大利亚|新加坡|日本|德国,MT4|自有平台,true,true,监管注册表/官网,https://paipaifx.com/b/cmc-markets.html
-avatrade,AvaTrade,Ava Trade Ltd,塞浦路斯,零售CFD,T1,8.33,A,9.4,6.0,9.2,5.0,10.0,10.0,,2,5,塞浦路斯|澳大利亚|日本|南非|阿联酋迪拜,MT4|MT5|AvaTradeGo,true,true,监管注册表/官网,https://paipaifx.com/b/avatrade.html
+avatrade,AvaTrade,Ava Trade Ltd,塞浦路斯,零售CFD,T1,8.53,AA,9.4,7.0,9.2,5.0,10.0,10.0,,3,6,塞浦路斯|澳大利亚|日本|南非|阿联酋迪拜|以色列,MT4|MT5|AvaTradeGo,true,true,监管注册表/官网,https://paipaifx.com/b/avatrade.html
 activtrades,ActivTrades,ActivTrades plc,英国,零售CFD,T1,8.28,A,8.9,5.0,9.2,8.25,10.0,10.0,,1,4,英国|塞浦路斯|巴哈马|阿联酋迪拜,MT4|MT5|自有平台|ActivTrader,false,true,监管注册表/官网,https://paipaifx.com/b/activtrades.html
 saxo-bank,Saxo Bank,Saxo Bank A/S,丹麦,零售CFD,T1,8.19,A,9.5,6.0,9.2,3.25,10.0,10.0,,2,5,丹麦|英国|澳大利亚|日本|新加坡,自有平台|SaxoTraderGO|Pro,true,true,监管注册表/官网,https://paipaifx.com/b/saxo-bank.html
 city-index,City Index,StoneX Group Inc.,英国,零售CFD,T1,8.17,A,9.3,5.0,9.2,5.75,10.0,10.0,,2,4,英国|澳大利亚|新加坡|阿联酋迪拜,MT4|自有平台,false,true,监管注册表/官网,https://paipaifx.com/b/city-index.html
@@ -18,6 +18,7 @@ ebc-financial-group,EBC Financial Group,EBC Financial Group (UK) Ltd,英国,零�
 admirals,Admirals,Admirals Group AS,爱沙尼亚,零售CFD,T1,8.03,A,9.1,5.0,9.2,5.0,10.0,10.0,,2,4,英国|澳大利亚|塞浦路斯|爱沙尼亚,MT4|MT5|Admirals,true,true,监管注册表/官网,https://paipaifx.com/b/admirals.html
 eightcap,Eightcap,Eightcap Pty Ltd,澳大利亚,零售CFD,T1,8.03,A,9.1,5.0,9.2,5.0,10.0,10.0,,2,4,澳大利亚|英国|塞浦路斯|巴哈马,MT4|MT5|TV,true,true,监管注册表/官网,https://paipaifx.com/b/eightcap.html
 hycm,HYCM,HYCM Ltd,英国,零售CFD,T1,7.97,BBB,8.6,5.0,9.2,8.25,10.0,7.0,,1,4,英国|塞浦路斯|阿联酋迪拜|毛里求斯,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/hycm.html
+plus500,Plus500,Plus500 Ltd,以色列（伦敦上市）,零售CFD,T1,7.85,BBB,9.1,5.0,9.2,3.25,10.0,10.0,,3,4,英国|塞浦路斯|澳大利亚|以色列,自有平台,true,true,监管注册表/官网,https://paipaifx.com/b/plus500.html
 fxopen,FXOpen,FXOpen Ltd,英国,零售CFD,T1,7.84,BBB,8.8,4.0,9.2,8.25,10.0,7.0,,2,3,英国|澳大利亚|塞浦路斯,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/fxopen.html
 fxpro,FXPro,FxPro Group Ltd,塞浦路斯,零售CFD,T2,7.78,BBB,6.4,6.0,9.2,10.0,10.0,10.0,,2,5,塞浦路斯|英国|南非|巴哈马|毛里求斯,MT4|MT5|cTrader|自有平台,true,true,监管注册表/官网,https://paipaifx.com/b/fxpro.html
 axi,Axi,AxiCorp Financial Services Pty Ltd,澳大利亚,零售CFD,T1,7.72,BBB,8.8,4.0,9.2,5.0,10.0,10.0,,2,3,英国|澳大利亚|阿联酋迪拜,MT4|MT5,true,true,监管注册表/官网,https://paipaifx.com/b/axi.html
@@ -29,8 +30,8 @@ triomarkets,TrioMarkets,TrioMarkets Ltd,英国,零售CFD,T1,7.66,BBB,8.3,4.0,9.2
 amana-capital,Amana Capital,Amana Capital Ltd,阿联酋,零售CFD,T1,7.65,BBB,8.6,4.0,9.2,5.0,10.0,10.0,,1,3,英国|阿联酋迪拜|塞浦路斯,MT4|MT5,false,true,监管注册表/官网,https://paipaifx.com/b/amana-capital.html
 equiti,Equiti,Equiti Group Ltd,阿联酋,零售CFD,T1,7.65,BBB,8.6,4.0,9.2,5.0,10.0,10.0,,1,3,英国|阿联酋|塞浦路斯,MT4|MT5,false,true,监管注册表/官网,https://paipaifx.com/b/equiti.html
 exness,Exness,Exness (Cy) Ltd,塞浦路斯,零售CFD,T2,7.63,BBB,5.9,7.0,9.2,8.25,10.0,10.0,,2,6,塞浦路斯|南非|肯尼亚|塞舌尔|英属维尔京|毛里求斯,MT4|MT5|自有平台|自有,true,true,监管注册表/官网,https://paipaifx.com/b/exness.html
-plus500,Plus500,Plus500 Ltd,以色列（伦敦上市）,零售CFD,T1,7.55,BBB,8.8,4.0,9.2,3.25,10.0,10.0,,2,3,英国|塞浦路斯|澳大利亚,自有平台,true,true,监管注册表/官网,https://paipaifx.com/b/plus500.html
 aetos-capital,Aetos Capital,Aetos Capital Group Pty Ltd,澳大利亚,零售CFD,T1,7.53,BBB,8.5,3.0,9.2,8.25,10.0,7.0,,2,2,澳大利亚|英国,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/aetos-capital.html
+fxcm,FXCM,FXCM Group,英国,零售CFD,T2,7.53,BBB,6.9,6.0,9.2,5.75,10.0,10.0,,4,5,英国|澳大利亚|南非|塞浦路斯|以色列,MT4|自有平台|Trading Station,false,true,监管注册表/官网,https://paipaifx.com/b/fxcm.html
 pu-prime,PU Prime,PU Prime Group,毛里求斯,零售CFD,T2,7.50,BBB,6.1,6.0,9.2,8.25,10.0,10.0,,2,5,澳大利亚|毛里求斯|塞舌尔|南非|阿联酋,MT4|MT5|自有平台|自有,false,true,监管注册表/官网,https://paipaifx.com/b/pu-prime.html
 fp-markets,FP Markets,First Prudential Markets Pty Ltd,澳大利亚,零售CFD,T2,7.48,BBB,6.1,5.0,9.2,10.0,10.0,10.0,,2,4,澳大利亚|塞浦路斯|南非|毛里求斯,MT4|MT5|cTrader|自有平台,false,true,监管注册表/官网,https://paipaifx.com/b/fp-markets.html
 ic-markets,IC Markets,IC Markets Global,澳大利亚,零售CFD,T2,7.48,BBB,6.1,5.0,9.2,10.0,10.0,10.0,,1,4,澳大利亚|塞浦路斯|塞舌尔|巴哈马,MT4|MT5|cTrader|自有平台,true,true,监管注册表/官网,https://paipaifx.com/b/ic-markets.html
@@ -38,7 +39,6 @@ capital-index,Capital Index,Capital Index (UK) Ltd,英国,零售CFD,T1,7.46,BBB,
 lynx-broker,LYNX Broker,LYNX B.V.,荷兰,零售CFD,T1,7.46,BBB,8.3,3.0,9.2,8.25,10.0,7.0,,0,2,荷兰|英国,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/lynx-broker.html
 purple-trading,Purple Trading,Purple Trading (Lighthouse) Ltd,捷克/塞浦路斯,零售CFD,T1,7.46,BBB,8.3,3.0,9.2,8.25,10.0,7.0,,0,2,塞浦路斯|英国,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/purple-trading.html
 fortrade,Fortrade,Fortrade Ltd,英国,零售CFD,T1,7.26,BBB,8.3,3.0,8.4,5.75,10.0,10.0,,1,2,英国|塞浦路斯,MT4|自有平台|自有,false,true,监管注册表/官网,https://paipaifx.com/b/fortrade.html
-fxcm,FXCM,FXCM Group,英国,零售CFD,T2,7.23,BBB,6.6,5.0,9.2,5.75,10.0,10.0,,3,4,英国|澳大利亚|南非|塞浦路斯,MT4|自有平台|Trading Station,false,true,监管注册表/官网,https://paipaifx.com/b/fxcm.html
 hfm,HFM,HF Markets (Europe) Ltd,塞浦路斯,零售CFD,T2,7.23,BBB,5.9,5.0,9.2,8.25,10.0,10.0,,2,4,塞浦路斯|南非|塞舌尔|肯尼亚,MT4|MT5|自有平台|自有,true,true,监管注册表/官网,https://paipaifx.com/b/hfm.html
 d-prime,D Prime,D Prime Group,澳大利亚,零售CFD,T2,7.19,BBB,5.8,6.0,9.2,8.25,10.0,7.0,,1,5,澳大利亚|毛里求斯|瓦努阿图|塞舌尔|马来西亚纳闽,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/d-prime.html
 central-tanshi-fx,Central Tanshi FX,Central Tanshi Co.,日本,零售CFD,T1,7.16,BBB,8.0,2.0,9.2,8.25,10.0,7.0,,0,1,日本,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/central-tanshi-fx.html
@@ -78,6 +78,7 @@ go-markets,GO Markets,GO Markets Pty Ltd,澳大利亚,零售CFD,T2,6.78,BB,6.1,4
 xm,XM,XM Group（Trading Point）,塞浦路斯,零售CFD,T2,6.78,BB,6.1,4.0,9.2,5.0,10.0,10.0,,2,3,塞浦路斯|澳大利亚|南非,MT4|MT5,true,true,监管注册表/官网,https://paipaifx.com/b/xm.html
 multibank,MultiBank,MultiBank Group,阿联酋/香港,零售CFD,T2,6.73,BB,5.6,3.0,9.2,8.25,10.0,10.0,,0,2,阿联酋迪拜|阿联酋,MT4|MT5|自有平台|自有,false,true,监管注册表/官网,https://paipaifx.com/b/multibank.html
 windsor-brokers,Windsor Brokers,Windsor Brokers Ltd,塞浦路斯,零售CFD,T2,6.70,BB,5.3,5.0,9.2,5.0,10.0,10.0,,0,4,塞浦路斯|英属维尔京|伯利兹|塞舌尔,MT4|MT5,false,true,监管注册表/官网,https://paipaifx.com/b/windsor-brokers.html
+sfc-aaj160,Barclays Bank PLC,Barclays Bank PLC,中国香港,证券经纪,T1,6.69,BB,8.3,3.0,0.0,0.0,6.0,10.0,prod|plat,1,2,中国香港|卡塔尔,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-aaj160.html
 doo-prime,Doo Prime,Doo Prime Group,塞舌尔/澳大利亚,零售CFD,T2,6.68,BB,5.5,4.0,9.2,8.25,10.0,7.0,,1,3,塞舌尔|澳大利亚|毛里求斯,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/doo-prime.html
 startrader,STARTRADER,STARTRADER Ltd,澳大利亚/毛里求斯,零售CFD,T2,6.68,BB,5.5,4.0,9.2,8.25,10.0,7.0,,2,3,澳大利亚|毛里求斯|瓦努阿图,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/startrader.html
 acy-securities,ACY Securities,ACY Capital Australia,澳大利亚,零售CFD,T2,6.67,BB,5.5,2.0,9.2,10.0,10.0,10.0,,1,1,澳大利亚,MT4|MT5|cTrader|自有平台,false,true,监管注册表/官网,https://paipaifx.com/b/acy-securities.html
@@ -173,6 +174,7 @@ bgc-group,BGC Group,BGC Partners Inc.,美国,交易商间经纪,T1,6.32,BB,9.0,3
 swissquote,Swissquote,Swissquote Group Holding Ltd,瑞士,零售CFD,T1,6.32,BB,5.0,2.0,9.2,8.25,10.0,10.0,,2,1,卢森堡,MT4|MT5|自有平台,false,true,监管注册表/官网,https://paipaifx.com/b/swissquote.html
 wegolden,WeGolden,WeGolden Group,南非,零售CFD,T2,6.32,BB,5.6,2.0,9.2,8.25,10.0,7.0,,1,2,南非,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/wegolden.html
 sfc-abf168,313資本管理有限公司,313 Capital Management Limited,中国香港,期货经纪,T1,6.30,BB,8.0,2.0,0.0,0.0,6.4,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-abf168.html
+capital-com,Capital.com,Capital Com (UK) Ltd,英国,零售CFD,T1,6.30,BB,5.3,3.0,9.2,5.0,10.0,10.0,,6,2,塞浦路斯|百慕大,TradingView|自有平台,true,true,监管注册表/官网,https://paipaifx.com/b/capital-com.html
 sfc-ane045,CC SIF Advisory,CC SIF Advisory Limited,中国香港,证券经纪,T1,6.30,BB,8.0,2.0,0.0,0.0,6.4,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-ane045.html
 sfc-aac212,DBS Bank,DBS Bank Ltd.,中国香港,期货经纪,T1,6.30,BB,8.0,2.0,0.0,0.0,6.4,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-aac212.html
 sfc-aak077,Deutsche Bank Aktiengesellschaft,Deutsche Bank Aktiengesellschaft,中国香港,证券经纪,T1,6.30,BB,8.0,2.0,0.0,0.0,6.4,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-aak077.html
@@ -321,7 +323,6 @@ sfc-btt175,Atlascap Invest,Atlascap Invest Limited,中国香港,证券经纪,T1,
 sfc-aur302,Bank Julius Baer & Co.,Bank Julius Baer & Co. Ltd.,中国香港,证券经纪,T1,6.26,BB,8.0,2.0,0.0,0.0,6.0,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-aur302.html
 sfc-aak796,"Bank of America, National Association","Bank of America, National Association",中国香港,证券经纪,T1,6.26,BB,8.0,2.0,0.0,0.0,6.0,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-aak796.html
 sfc-bmg891,Banque Pictet & Cie SA,Banque Pictet & Cie SA,中国香港,证券经纪,T1,6.26,BB,8.0,2.0,0.0,0.0,6.0,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-bmg891.html
-sfc-aaj160,Barclays Bank PLC,Barclays Bank PLC,中国香港,证券经纪,T1,6.26,BB,8.0,2.0,0.0,0.0,6.0,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-aaj160.html
 sfc-bnu616,BAXS Digital Asset Capital,BAXS Digital Asset Capital Limited,中国香港,证券经纪,T1,6.26,BB,8.0,2.0,0.0,0.0,6.0,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-bnu616.html
 sfc-bty375,Blue Box Securities,Blue Box Securities Limited,中国香港,证券经纪,T1,6.26,BB,8.0,2.0,0.0,0.0,6.0,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-bty375.html
 sfc-bty381,Blue Ribbon Capital,Blue Ribbon Capital Limited,中国香港,证券经纪,T1,6.26,BB,8.0,2.0,0.0,0.0,6.0,10.0,prod|plat,1,1,中国香港,,false,true,SFC 公众纪录册,https://paipaifx.com/b/sfc-bty381.html
@@ -1846,7 +1847,6 @@ litefinance,LiteFinance,LiteFinance Global LLC,塞浦路斯,零售CFD,T2,6.10,BB
 tradeweb,Tradeweb,Tradeweb Markets Inc.,美国,电子交易平台,T1,6.06,BB,8.5,2.0,5.6,5.25,6.0,8.0,,0,2,美国,自有平台|FIX/API|FIX|自有,false,true,公司公开资料,https://paipaifx.com/b/tradeweb.html
 trade-24-7,Trade 24/7,Trade 24/7,阿联酋,零售CFD,T2,6.05,BB,5.3,3.0,9.2,2.5,10.0,10.0,,0,2,毛里求斯|阿联酋,MT5,false,true,监管注册表/官网,https://paipaifx.com/b/trade-24-7.html
 tastytfx,Tastytfx,IG Group（美国实体）,美国,零售CFD,T1,6.00,BB,8.5,2.0,4.0,3.25,10.0,10.0,,0,2,美国,自有平台,false,true,监管注册表/官网,https://paipaifx.com/b/tastytfx.html
-capital-com,Capital.com,Capital Com (UK) Ltd,英国,零售CFD,T1,5.99,B,5.0,2.0,9.2,5.0,10.0,10.0,,4,1,塞浦路斯,TradingView|自有平台,true,true,监管注册表/官网,https://paipaifx.com/b/capital-com.html
 clear-street,Clear Street,Clear Street LLC,美国,清算/机构,T1,5.98,B,8.5,2.0,5.6,5.25,5.0,8.0,,0,2,美国,自有平台|FIX/API|FIX|自有,false,true,公司公开资料,https://paipaifx.com/b/clear-street.html
 ec-markets,EC Markets,EC Markets Limited（塞舌尔 FSA SD009，公司号 8413793-1）；EC Markets Group Ltd（英国 FCA FRN 571881，公司号 07601714）；EC Markets Limited（,未披露,零售CFD,T2,5.98,B,5.5,2.0,10.0,3.25,10.0,7.5,,1,1,澳大利亚,自有平台,false,true,行业目录+官网披露,https://paipaifx.com/b/ec-markets.html
 etoro,eToro,eToro Group Ltd.,塞浦路斯,零售CFD,T2,5.98,B,5.0,2.0,10.0,3.25,10.0,10.0,,3,1,塞浦路斯,自有平台,false,true,监管注册表/官网,https://paipaifx.com/b/etoro.html
@@ -1945,7 +1945,21 @@ umarkets,UMARKETS,UMARKETS Ltd,塞舌尔,零售CFD,T3,5.23,B,2.5,2.0,9.2,8.25,10
 vpfx,VPFX,VPFX Ltd,瓦努阿图,零售CFD,T3,5.23,B,2.5,2.0,9.2,8.25,10.0,7.0,,0,1,瓦努阿图,MT4|MT5|自有平台|自有,false,true,行业目录 + 官网披露,https://paipaifx.com/b/vpfx.html
 huatai-securities,HUATAI SECURITIES 华泰证券,"华泰证券股份有限公司（Huatai Securities Co., Ltd.）",中国江苏省,零售CFD,T2,5.21,B,5.5,2.0,0.0,0.0,10.0,7.5,prod|plat,1,1,中国香港,未披露,false,true,行业目录+官网披露,https://paipaifx.com/b/huatai-securities.html
 b253,亨达国际金融,亨达国际金融,澳大利亚,零售CFD,T2,5.15,B,5.5,3.0,4.0,5.0,10.0,7.5,,1,2,澳大利亚|中国香港,MT4|MT5,false,true,行业目录+官网披露,https://paipaifx.com/b/b253.html
+kraken,Kraken,Payward Inc.,美国,加密衍生品,T2,5.10,B,6.1,4.0,2.0,5.25,8.5,8.0,,1,3,美国（州级）|英国|百慕大,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/kraken.html
 wise,Wise,Wise plc,英国,外汇支付·转账,T1,5.10,B,8.5,3.0,2.0,3.25,3.0,8.0,,0,2,英国|澳大利亚,自有平台,false,true,公司公开资料,https://paipaifx.com/b/wise.html
+balanz,Balanz,Balanz Capital Valores S.A.U.,阿根廷,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,阿根廷,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/balanz.html
+col-financial,COL Financial,"COL Financial Group, Inc.",菲律宾,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,菲律宾,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/col-financial.html
+efg-hermes,EFG Hermes,Hermes Securities Brokerage (EFG Holding),埃及,期货经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,埃及,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/efg-hermes.html
+gbm,GBM,"Grupo Bursátil Mexicano, S.A. de C.V., Casa de Bolsa",墨西哥,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,墨西哥,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/gbm.html
+hsbc-saudi-arabia,HSBC Saudi Arabia,HSBC Saudi Arabia Limited,英国,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,沙特阿拉伯,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/hsbc-saudi-arabia.html
+maybank-securities-thailand,Maybank Securities (Thailand),Maybank Securities (Thailand) Public Company Limited,马来西亚,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,泰国,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/maybank-securities-thailand.html
+mirae-asset-securities,Mirae Asset Securities,"Mirae Asset Securities Co., Ltd.",韩国,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,韩国,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/mirae-asset-securities.html
+phnom-penh-securities,Phnom Penh Securities,Phnom Penh Securities Plc.,柬埔寨,期货经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,柬埔寨,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/phnom-penh-securities.html
+renta-4-chile,Renta 4 Chile,Renta 4 Corredores de Bolsa S.A.,西班牙,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,智利,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/renta-4-chile.html
+ssi-securities,SSI Securities,SSI Securities Corporation,越南,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,越南,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/ssi-securities.html
+xp-investimentos,XP Investimentos,XP Investimentos CCTVM S.A.,巴西,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,巴西,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/xp-investimentos.html
+yuanta-securities,Yuanta Securities,"Yuanta Securities Co., Ltd.",中国台湾,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,中国台湾,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/yuanta-securities.html
+zerodha,Zerodha,Zerodha Broking Ltd.,印度,证券经纪,T2,4.97,C,5.8,2.0,0.0,5.25,4.0,10.0,prod,0,1,印度,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/zerodha.html
 alpari,Alpari,Alpari Ltd,毛里求斯,零售CFD,T3,4.96,C,2.5,2.0,8.4,5.0,10.0,10.0,,0,1,毛里求斯,MT4|MT5,false,true,监管注册表/官网,https://paipaifx.com/b/alpari.html
 amarkets,Amarkets,Amarkets Group,英属维尔京,零售CFD,T3,4.96,C,2.5,2.0,8.4,5.0,10.0,10.0,,0,1,英属维尔京,MT4|MT5,false,true,监管注册表/官网,https://paipaifx.com/b/amarkets.html
 axiory,Axiory,Axiory Global Ltd,伯利兹,零售CFD,T3,4.96,C,2.5,2.0,8.4,5.0,10.0,10.0,,0,1,伯利兹,MT4|MT5,false,true,监管注册表/官网,https://paipaifx.com/b/axiory.html
@@ -1954,14 +1968,18 @@ gerchik-and-co,Gerchik & Co,Gerchik & Co,毛里求斯,零售CFD,T3,4.96,C,2.5,2.
 headway,Headway,Headway,伯利兹,零售CFD,T3,4.96,C,2.5,2.0,8.4,5.0,10.0,10.0,,0,1,伯利兹,MT4|MT5,false,true,监管注册表/官网,https://paipaifx.com/b/headway.html
 nordfx,NordFX,NordFX,英属维尔京,零售CFD,T3,4.96,C,2.5,2.0,8.4,5.0,10.0,10.0,,0,1,英属维尔京,MT4|MT5,false,true,监管注册表/官网,https://paipaifx.com/b/nordfx.html
 worldwide-markets,WorldWide Markets,WorldWide Markets,英属维尔京,零售CFD,T3,4.96,C,2.5,2.0,8.4,5.0,10.0,10.0,,0,1,英属维尔京,MT4|MT5,false,true,监管注册表/官网,https://paipaifx.com/b/worldwide-markets.html
-kraken,Kraken,Payward Inc.,美国,加密衍生品,T2,4.80,C,5.8,3.0,2.0,5.25,8.5,8.0,,0,2,美国（州级）|英国,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/kraken.html
 wmax,WMAX 威马证券,Wmax Broker Ltd（科摩罗联盟注册号 15936；Wmax 为其品牌名）,科摩罗,零售CFD,T2,4.78,C,5.5,2.0,4.0,3.25,10.0,7.5,,1,1,澳大利亚,自有平台,false,true,行业目录+官网披露,https://paipaifx.com/b/wmax.html
+coinmena,CoinMENA,CoinMENA B.S.C. (c),巴林,加密现货,T2,4.74,C,5.8,2.0,2.0,5.25,8.5,10.0,,0,1,巴林,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/coinmena.html
+cex-luno,Luno,Luno Malaysia Sdn. Bhd.,新加坡,加密现货,T2,4.74,C,5.8,2.0,2.0,5.25,8.5,10.0,,0,1,马来西亚,自有平台|API,false,true,SC 官方注册册,https://paipaifx.com/b/cex-luno.html
+uphold,Uphold,"Uphold Digital Assets Europe, Unipessoal, Lda",美国,加密现货,T2,4.74,C,5.8,2.0,2.0,5.25,8.5,10.0,,0,1,葡萄牙,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/uphold.html
 currencies-direct,Currencies Direct,Currencies Direct Ltd,英国,外汇支付·转账,T1,4.73,C,8.0,2.0,2.0,3.25,3.0,8.0,,0,1,英国,自有平台,false,true,公司公开资料,https://paipaifx.com/b/currencies-direct.html
 ebury,Ebury,Ebury Partners UK Ltd,英国,外汇支付·转账,T1,4.73,C,8.0,2.0,2.0,3.25,3.0,8.0,,0,1,英国,自有平台,false,true,公司公开资料,https://paipaifx.com/b/ebury.html
 moneycorp,Moneycorp,Moneycorp Group,英国,外汇支付·转账,T1,4.73,C,8.0,2.0,2.0,3.25,3.0,8.0,,0,1,英国,自有平台,false,true,公司公开资料,https://paipaifx.com/b/moneycorp.html
 ofx,OFX,OFX Group Ltd,澳大利亚,外汇支付·转账,T1,4.73,C,8.0,2.0,2.0,3.25,3.0,8.0,,0,1,澳大利亚,自有平台,false,true,公司公开资料,https://paipaifx.com/b/ofx.html
 rationalfx,RationalFX,RationalFX Ltd,英国,外汇支付·转账,T1,4.73,C,8.0,2.0,2.0,3.25,3.0,8.0,,0,1,英国,自有平台,false,true,公司公开资料,https://paipaifx.com/b/rationalfx.html
 worldfirst,WorldFirst,WorldFirst UK Ltd,英国,外汇支付·转账,T1,4.73,C,8.0,2.0,2.0,3.25,3.0,8.0,,0,1,英国,自有平台,false,true,公司公开资料,https://paipaifx.com/b/worldfirst.html
+citivalores,Citivalores,Citivalores S.A. Comisionista de Bolsa,美国,证券经纪,T2,4.72,C,5.8,2.0,0.0,3.25,4.0,10.0,prod,0,1,哥伦比亚,自有平台,false,true,监管注册表/官网,https://paipaifx.com/b/citivalores.html
+keytrade-bank,Keytrade Bank,"Keytrade Bank, Belgian branch of Arkéa Direct Bank SA",比利时,证券经纪,T2,4.72,C,5.8,2.0,0.0,3.25,4.0,10.0,prod,0,1,比利时,自有平台,false,true,监管注册表/官网,https://paipaifx.com/b/keytrade-bank.html
 exoraprime,ExoraPrime,ExoraPrime,圣文森特,零售CFD,T3,4.71,C,2.5,2.0,8.4,2.5,10.0,10.0,,0,1,圣文森特,MT5,false,true,监管注册表/官网,https://paipaifx.com/b/exoraprime.html
 forex4you,Forex4you,Forex4you,英属维尔京,零售CFD,T3,4.71,C,2.5,2.0,8.4,2.5,10.0,10.0,,0,1,英属维尔京,MT4,false,true,监管注册表/官网,https://paipaifx.com/b/forex4you.html
 fortune-prime-global,Fortune Prime Global,Fortune Prime Global Limited,未披露,零售CFD,T2,4.70,C,5.5,2.0,4.0,2.5,10.0,7.5,,1,1,澳大利亚,MT4,false,true,行业目录+官网披露,https://paipaifx.com/b/fortune-prime-global.html
@@ -1971,8 +1989,8 @@ decode-global,Decode Global,Decode Global,澳大利亚,零售CFD,T2,4.55,C,5.5,2
 hatc,华安泰昌HATC,Hua An Tai Chang Global Limited（華安泰昌有限公司）,科摩罗,零售CFD,T2,4.53,C,5.0,2.0,4.0,2.5,10.0,7.5,,0,1,中国香港,MT5,false,true,行业目录+官网披露,https://paipaifx.com/b/hatc.html
 deribit,Deribit,Deribit,迪拜,加密衍生品,T2,4.42,C,5.3,2.0,2.0,5.25,8.5,8.0,,0,1,阿联酋迪拜,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/deribit.html
 gkfx,GKFX,GKFX Financial Services,英国,零售CFD,T3,4.41,C,1.0,0.5,9.2,8.25,10.0,7.0,,0,0,,MT4|MT5|自有平台|自有,false,false,行业目录 + 官网披露,https://paipaifx.com/b/gkfx.html
+coinbase,Coinbase,"Coinbase Global, Inc.",旧金山,加密衍生品,T2,4.39,C,5.3,3.0,2.0,3.25,8.5,7.5,,2,2,卢森堡|百慕大,自有平台,false,true,行业目录+官网披露,https://paipaifx.com/b/coinbase.html
 bitstamp,Bitstamp,Bitstamp Ltd.,卢森堡,加密衍生品,T2,4.08,C,5.0,2.0,2.0,3.25,8.5,7.5,,1,1,卢森堡,自有平台,false,true,行业目录+官网披露,https://paipaifx.com/b/bitstamp.html
-coinbase,Coinbase,"Coinbase Global, Inc.",旧金山,加密衍生品,T2,4.08,C,5.0,2.0,2.0,3.25,8.5,7.5,,1,1,卢森堡,自有平台,false,true,行业目录+官网披露,https://paipaifx.com/b/coinbase.html
 gate-io,Gate.io,Gate Technology,开曼,加密衍生品,T3,4.05,C,3.1,4.0,2.0,5.25,8.5,8.0,,2,3,开曼群岛|马耳他|阿联酋迪拜,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/gate-io.html
 b249,金利宝环球,Gold Label Global（金利宝环球）,中国香港,零售CFD,T2,4.03,C,1.0,0.5,10.0,2.5,10.0,7.5,,0,0,,MT5,false,false,行业目录+官网披露,https://paipaifx.com/b/b249.html
 fibogroup,FIBOGroup,FIBO GROUP LTD,塞浦路斯,零售CFD,T2,3.98,C,1.0,0.5,6.0,10.0,10.0,7.5,,0,0,,MT4|MT5|cTrader|自有平台,false,false,行业目录+官网披露,https://paipaifx.com/b/fibogroup.html
@@ -1980,6 +1998,8 @@ cbcx,CBCX,CBCX MARKETS LIMITED,英国,零售CFD,T2,3.88,C,1.0,0.5,8.0,5.0,10.0,7
 grand-markets,GRAND MARKETS,GRAND MARKETS,未披露,零售CFD,T2,3.88,C,1.0,0.5,8.0,5.0,10.0,7.5,,0,0,,MT4|MT5,false,false,行业目录+官网披露,https://paipaifx.com/b/grand-markets.html
 torfx,TorFX,TorFX Ltd,英国,外汇支付·转账,T1,3.78,C,5.3,2.0,2.0,3.25,3.0,8.0,,0,1,英国,自有平台,false,true,公司公开资料,https://paipaifx.com/b/torfx.html
 binance,Binance,Binance Holdings,离岸,加密衍生品,T3,3.75,C,2.8,3.0,2.0,5.25,8.5,8.0,,2,2,阿联酋迪拜|日本,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/binance.html
+bybit,Bybit,Bybit Fintech Ltd,迪拜,加密衍生品,T3,3.75,C,2.8,3.0,2.0,5.25,8.5,8.0,,2,2,奥地利|哈萨克斯坦,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/bybit.html
+quidax,Quidax,Quidax Technologies Limited,尼日利亚,加密现货,T3,3.69,C,2.8,2.0,2.0,5.25,8.5,10.0,,0,1,尼日利亚,自有平台|API,false,true,监管注册表/官网,https://paipaifx.com/b/quidax.html
 bingx,BingX,BingX,塞舌尔,加密衍生品,T3,3.55,C,2.8,2.0,2.0,5.25,8.5,8.0,,1,1,奥地利,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/bingx.html
 cex-binance-futures,Binance Futures,Binance FZE,阿联酋迪拜,加密衍生品,T3,3.48,C,2.8,2.0,2.0,5.25,8.5,7.0,,1,1,阿联酋迪拜,自有平台|API,false,true,官方注册表 + 行业榜单,https://paipaifx.com/b/cex-binance-futures.html
 cex-binance-options,Binance Options,Binance FZE,阿联酋迪拜,加密衍生品,T3,3.48,C,2.8,2.0,2.0,5.25,8.5,7.0,,1,1,阿联酋迪拜,自有平台|API,false,true,官方注册表 + 行业榜单,https://paipaifx.com/b/cex-binance-options.html
@@ -1987,20 +2007,19 @@ cex-crypto-com-derivatives,Crypto.com (Derivatives),Foris DAX Middle East FZE (C
 cex-okx-derivatives,OKX (Derivatives),OKX Middle East Fintech FZE,阿联酋迪拜,加密衍生品,T3,3.48,C,2.8,2.0,2.0,5.25,8.5,7.0,,1,1,阿联酋迪拜,自有平台|API,false,true,官方注册表 + 行业榜单,https://paipaifx.com/b/cex-okx-derivatives.html
 cex-okx-options,OKX Options,OKX Middle East Fintech FZE,阿联酋迪拜,加密衍生品,T3,3.48,C,2.8,2.0,2.0,5.25,8.5,7.0,,1,1,阿联酋迪拜,自有平台|API,false,true,官方注册表 + 行业榜单,https://paipaifx.com/b/cex-okx-options.html
 ultima-markets,Ultima Markets,Ultima Markets,澳大利亚,零售CFD,T2,3.48,C,1.0,0.5,6.0,5.0,10.0,7.5,,0,0,,MT4|MT5,false,false,行业目录+官网披露,https://paipaifx.com/b/ultima-markets.html
-bybit,Bybit,Bybit Fintech Ltd,迪拜,加密衍生品,T3,3.44,C,2.5,2.0,2.0,5.25,8.5,8.0,,1,1,奥地利,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/bybit.html
 kucoin,KuCoin,KuCoin,塞舌尔,加密衍生品,T3,3.44,C,2.5,2.0,2.0,5.25,8.5,8.0,,0,1,塞舌尔,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/kucoin.html
 okx,OKX,OKX Group,塞舌尔/迪拜,加密衍生品,T3,3.44,C,2.5,2.0,2.0,5.25,8.5,8.0,,1,1,马耳他,自有平台|FIX/API|API,false,true,公司公开资料,https://paipaifx.com/b/okx.html
 casp-21bitcoin,21bitcoin,FIOR Digital GmbH,奥地利,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,奥地利,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-21bitcoin.html
 casp-360-treasury-systems-ag,360 Treasury Systems AG,360 Treasury Systems AG,德国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,德国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-360-treasury-systems-ag.html
-casp-acheron-acheron-trading,Acheron | Acheron Trading,Acheron Europe B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,荷兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-acheron-acheron-trading.html
+casp-acheron-acheron-trading,Acheron,Acheron Europe B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,荷兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-acheron-acheron-trading.html
 casp-alaric-securities,Alaric Securities,Alaric Securities OOD,保加利亚,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,保加利亚,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-alaric-securities.html
 casp-alpharoute,AlphaRoute,SIA AlphaRoute,拉脱维亚,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,拉脱维亚,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-alpharoute.html
 casp-altcoins,Altcoins,Altcoins BG EООD,保加利亚,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,保加利亚,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-altcoins.html
-casp-amdax-b-v-amdax-group,Amdax B.V.|Amdax Group,Amdax B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,荷兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-amdax-b-v-amdax-group.html
+casp-amdax-b-v-amdax-group,Amdax,Amdax B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,荷兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-amdax-b-v-amdax-group.html
 casp-amina-eu,AMINA EU,AMINA (Austria) AG,奥地利,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,奥地利,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-amina-eu.html
 casp-aplo,APLO,APLO SAS,法国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,法国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-aplo.html
 casp-aquilla-nummus-ltd,Aquilla Nummus Ltd,Aquilla Nummus Ltd,塞浦路斯,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,塞浦路斯,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-aquilla-nummus-ltd.html
-casp-ari10-ari10-nl-web3-technology-b-v-rgltd,Ari10 | Ari10 NL |  WEB3 Technology B.V. | RGLTD Cashify,WEB3 Technology B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,荷兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-ari10-ari10-nl-web3-technology-b-v-rgltd.html
+casp-ari10-ari10-nl-web3-technology-b-v-rgltd,Ari10,WEB3 Technology B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,荷兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-ari10-ari10-nl-web3-technology-b-v-rgltd.html
 casp-backpack-eu,Backpack EU,"""Trek Technologies"" SIA",拉脱维亚,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,拉脱维亚,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-backpack-eu.html
 casp-baden-w-rttembergische-wertpapierb-rse-g,Baden-Württembergische Wertpapierbörse GmbH,Baden-Württembergische Wertpapierbörse GmbH,德国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,德国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-baden-w-rttembergische-wertpapierb-rse-g.html
 casp-banque-delubac,BANQUE DELUBAC,BANQUE DELUBAC ET CIE,法国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,法国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-banque-delubac.html
@@ -2029,7 +2048,7 @@ casp-blox-b-v,BLOX B.V.,BLOX B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25
 casp-btc-direct-europe-b-v,BTC Direct Europe B.V.,BTC Direct Europe B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,荷兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-btc-direct-europe-b-v.html
 casp-bullish-europe-gmbh,Bullish Europe GmbH,Bullish Europe GmbH,德国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,德国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-bullish-europe-gmbh.html
 casp-calamatta-cuschieri-investment-services-,Calamatta Cuschieri Investment Services Limited,Calamatta Cuschieri Investment Services Limited,马耳他,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,马耳他,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-calamatta-cuschieri-investment-services-.html
-casp-change-change-invest-getchange-com-chang,Change | Change Invest | getchange.com | ChangePro | changeinvest.com | AgenaTrader | agenatrader.com| TradersYard | tradersyard.com,Change Securities B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,荷兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-change-change-invest-getchange-com-chang.html
+casp-change-change-invest-getchange-com-chang,Change Invest,Change Securities B.V.,荷兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,荷兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-change-change-invest-getchange-com-chang.html
 casp-checksig,CheckSig,CHECKSIG S.R.L. SOCIETÀ BENEFIT,意大利,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,意大利,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-checksig.html
 casp-cloverum,Cloverum,Cloverum Finance (CY) Limited,塞浦路斯,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,塞浦路斯,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-cloverum.html
 casp-coincash,CoinCash,Tiwala Solutions Korlátolt Felelősségű Társaság,匈牙利,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,匈牙利,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-coincash.html
@@ -2072,7 +2091,7 @@ casp-floin-ag,Floin AG,Floin AG,列支敦士登,加密现货,T3,3.41,C,2.5,2.0,2
 casp-flowdesk-europe,FLOWDESK EUROPE,FLOWDESK EUROPE SAS,法国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,法国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-flowdesk-europe.html
 casp-fumbi,FUMBI,"FUMBI, s.r.o.",斯洛伐克,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,斯洛伐克,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-fumbi.html
 casp-gatehub-exchange,GateHub Exchange,GateHub Exchange družba za izvajanje storitev v zvezi s kriptosredstvi d.o.o.,斯洛文尼亚,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,斯洛文尼亚,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-gatehub-exchange.html
-casp-gcex-gc-exchange,GCEX|GC Exchange,GC Exchange A/S,丹麦,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,丹麦,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-gcex-gc-exchange.html
+casp-gcex-gc-exchange,GCEX,GC Exchange A/S,丹麦,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,丹麦,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-gcex-gc-exchange.html
 casp-goin,GOIN,GOin SAS,法国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,法国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-goin.html
 casp-hercle,Hercle,HERCLE S.R.L.,意大利,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,意大利,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-hercle.html
 casp-hexarq,HEXARQ,HEXARQ SAS,法国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,法国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-hexarq.html
@@ -2093,7 +2112,7 @@ casp-kvarn-x,Kvarn X,Kvarn Capital Oy,芬兰,加密现货,T3,3.41,C,2.5,2.0,2.0,
 casp-lang-schwarz-tradecenter-ag-co-kg,Lang & Schwarz TradeCenter AG & Co. KG,Lang & Schwarz TradeCenter AG & Co. KG,德国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,德国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-lang-schwarz-tradecenter-ag-co-kg.html
 casp-legend-trading,Legend Trading,Legend Financial Ireland Limited,爱尔兰,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,爱尔兰,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-legend-trading.html
 casp-lunar-block,Lunar Block,Lunar Block A/S,丹麦,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,丹麦,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-lunar-block.html
-casp-madison-six-crypto4me,Madison Six|crypto4me,Madison Six j. s. a.,斯洛伐克,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,斯洛伐克,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-madison-six-crypto4me.html
+casp-madison-six-crypto4me,Madison Six,Madison Six j. s. a.,斯洛伐克,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,斯洛伐克,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-madison-six-crypto4me.html
 casp-meatal-gear,MEATAL GEAR,METAL GEAR SAS,法国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,法国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-meatal-gear.html
 casp-meria,MERIA,MERIA SAS,法国,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,法国,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-meria.html
 casp-micar-assets,Micar Assets,UAB Micar assets,立陶宛,加密现货,T3,3.41,C,2.5,2.0,2.0,5.25,8.5,7.5,,1,1,立陶宛,,false,true,ESMA CASP 官方注册册,https://paipaifx.com/b/casp-micar-assets.html

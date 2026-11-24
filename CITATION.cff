@@ -10,8 +10,8 @@ type: dataset
 authors:
   - name: "PAIPAI RANKING (交易商排排网)"
     website: "https://paipaifx.com"
-version: "2026.11.21"
-date-released: 2026-11-21
+version: "2026.11.22"
+date-released: 2026-11-22
 license: CC-BY-4.0
 doi: 10.5281/zenodo.24415043
 identifiers:

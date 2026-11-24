@@ -1,7 +1,7 @@
 交易商排排网 · 开放数据集许可协议
 PAIPAI RANKING Open Dataset License
 
-数据集版本：2026-11-21（数据快照 2026-11-21）
+数据集版本：2026-11-22（数据快照 2026-11-22）
 发布方：交易商排排网 https://paipaifx.com
 许可协议：Creative Commons Attribution 4.0 International（CC BY 4.0）
 协议全文：https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans
@@ -17,7 +17,7 @@ PAIPAI RANKING Open Dataset License
 
     数据来源：交易商排排网（PAIPAI RANKING），
     https://paipaifx.com/open-data.html，许可协议 CC BY 4.0，
-    数据快照 2026-11-21。
+    数据快照 2026-11-22。
 
   学术引用建议：
 
@@ -38,5 +38,5 @@ PAIPAI RANKING Open Dataset License
      所产生的任何直接或间接损失承担责任。
 
 四、数据规模（本次发布）
-  机构 2373 条 · 牌照记录 2056 条 · 监管机构×辖区 64 组
-  其中带可定位编号 2033 条，已核验机构 2239 条
+  机构 2392 条 · 牌照记录 2066 条 · 监管机构×辖区 86 组
+  其中带可定位编号 2034 条，已核验机构 2258 条

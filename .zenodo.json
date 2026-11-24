@@ -1,7 +1,7 @@
 {
   "title": "全球交易商监管授权与牌照数据集",
   "upload_type": "dataset",
-  "description": "<p>公开数据集：全球外汇差价合约、贵金属现货、证券与期货经纪、加密资产交易商的监管授权与牌照记录。每条记录为「监管机构 + 持牌法人实体 + 牌照编号 + 层级」四元组，可回到签发机构公开注册表复核。</p><p>规模：机构 2373 家 · 牌照记录 2056 条 · 监管机构×辖区 64 组。CSV 三张表（brokers / licences / regulators）与一份 JSON。</p><p><strong>注意</strong>：<code>licence_count = 0</code> 不代表无牌照，仅表示本数据集未采集到可核验授权；<code>licence_kind = LEI</code> 是法人识别码，不是牌照号；<code>skipped_dims</code> 所列维度不计加权，复算综合分时须跳过。</p>",
+  "description": "<p>公开数据集：全球外汇差价合约、贵金属现货、证券与期货经纪、加密资产交易商的监管授权与牌照记录。每条记录为「监管机构 + 持牌法人实体 + 牌照编号 + 层级」四元组，可回到签发机构公开注册表复核。</p><p>规模：机构 2392 家 · 牌照记录 2066 条 · 监管机构×辖区 86 组。CSV 三张表（brokers / licences / regulators）与一份 JSON。</p><p><strong>注意</strong>：<code>licence_count = 0</code> 不代表无牌照，仅表示本数据集未采集到可核验授权；<code>licence_kind = LEI</code> 是法人识别码，不是牌照号；<code>skipped_dims</code> 所列维度不计加权，复算综合分时须跳过。</p>",
   "creators": [
     {
       "name": "PAIPAI RANKING (交易商排排网)"
@@ -9,7 +9,7 @@
   ],
   "license": "cc-by-4.0",
   "access_right": "open",
-  "publication_date": "2026-11-21",
+  "publication_date": "2026-11-22",
   "keywords": [
     "broker",
     "forex",

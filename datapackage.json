@@ -2,8 +2,8 @@
   "name": "paipai-broker-licences",
   "title": "全球交易商监管授权与牌照数据集",
   "description": "Regulatory authorisations and licence records for FX/CFD, precious metals, securities & futures and crypto-asset brokers worldwide. 每条记录为「监管机构 + 持牌法人实体 + 牌照编号 + 层级」四元组，可回到官方注册表复核。",
-  "version": "2026.11.21",
-  "created": "2026-11-21",
+  "version": "2026.11.22",
+  "created": "2026-11-22",
   "licenses": [
     {
       "name": "CC-BY-4.0",

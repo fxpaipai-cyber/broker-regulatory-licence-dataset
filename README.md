@@ -5,10 +5,10 @@ precious-metals, securities & futures, and crypto-asset brokers worldwide. Every
 licence row is a four-tuple — *regulator + legal entity + licence reference + tier* —
 each of which can be checked against the official public register it came from.
 
-- **Snapshot**: 2026-11-21
+- **Snapshot**: 2026-11-22
 - **Homepage**: https://paipaifx.com/open-data.html
 - **Licence**: CC BY 4.0 (attribution + link back, commercial use allowed)
-- **Scale**: 2,373 brokers · 2,056 licence records · 64 regulator/region groups
+- **Scale**: 2,392 brokers · 2,066 licence records · 86 regulator/region groups
 - **DOI**: [10.5281/zenodo.24415043](https://doi.org/10.5281/zenodo.24415043)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24415043.svg)](https://doi.org/10.5281/zenodo.24415043)
@@ -25,10 +25,10 @@ join against register exports or de-duplicate group structures.
 
 | File | Rows | Description |
 |---|---|---|
-| `data/brokers.csv` | 2,373 | Broker master table: name, legal entity, HQ, category, tier, six dimension scores, licence counts |
-| `data/licences.csv` | 2,056 | Licence records: broker × regulator × jurisdiction × identifier kind × reference (subset of the 2,490 authorisations below) |
-| `data/regulators.csv` | 64 | Regulator aggregates: brokers and tier distribution per (regulator, region); tier columns sum to 2,490 authorisations |
-| `data/brokers.json` | 2,373 | Same content as JSON, with a `meta` block |
+| `data/brokers.csv` | 2,392 | Broker master table: name, legal entity, HQ, category, tier, six dimension scores, licence counts |
+| `data/licences.csv` | 2,066 | Licence records: broker × regulator × jurisdiction × identifier kind × reference (subset of the 2,519 authorisations below) |
+| `data/regulators.csv` | 86 | Regulator aggregates: brokers and tier distribution per (regulator, region); tier columns sum to 2,519 authorisations |
+| `data/brokers.json` | 2,392 | Same content as JSON, with a `meta` block |
 | `FIELD_DICT.md` | — | Full field dictionary (EN/中文) |
 | `datapackage.json` | — | [Frictionless Data Package](https://specs.frictionlessdata.io/data-package/) descriptor |
 | `scripts/recompute_score.py` | — | Reference implementation of the composite score, incl. missing-dimension handling |
@@ -64,7 +64,7 @@ LIMIT 10;
 ## Caveats — please read before drawing conclusions
 
 1. **`licence_count = 0` does not mean "unlicensed".** It means this dataset has not
-   collected a verifiable authorisation for that broker: 372 of 2,373 brokers
+   collected a verifiable authorisation for that broker: 390 of 2,392 brokers
    are in that state. Do not publish "X is unlicensed" based on this file.
 2. **Two different `verified` columns.** In `licences.csv` it marks an individual licence
    record (1 not yet line-checked against the register); in `brokers.csv` it
@@ -87,8 +87,8 @@ LIMIT 10;
    `FMA-AT` = Austria, `FMA-LI` = Liechtenstein). `regulator_code_raw` preserves the
    original spelling for traceability.
 7. **`licences.csv` rows ≠ authorisation counts in `regulators.csv`.** The tier columns
-   in `regulators.csv` sum to **2,490 authorisations** (broker × regulator pairs),
-   while `licences.csv` holds **2,056 rows**. The 434 pair difference is
+   in `regulators.csv` sum to **2,519 authorisations** (broker × regulator pairs),
+   while `licences.csv` holds **2,066 rows**. The 453 pair difference is
    authorisations where the register confirms the licence but does not expose a discrete
    reference number, so there is no per-licence row to emit. The two files are not
    expected to reconcile row-for-row; use `regulators.csv` for counts and
@@ -108,12 +108,29 @@ noting that this repository is the canonical source.
 ## Citation
 
 `CITATION.cff` is included with the minted DOI, so GitHub's "Cite this repository"
-button works out of the box.
+button works out of the box. Please cite the **concept DOI** — it always resolves to
+the latest version.
 
-- **Zenodo (concept DOI)**: [10.5281/zenodo.24415043](https://doi.org/10.5281/zenodo.24415043) — always points to the latest version
+- **Zenodo (concept DOI)**: [10.5281/zenodo.24415043](https://doi.org/10.5281/zenodo.24415043)
+
+APA:
 
 ```
-PAIPAI RANKING (交易商排排网). Global Broker Regulatory Licences Dataset. Snapshot 2026-11-21. Zenodo. https://doi.org/10.5281/zenodo.24415043. CC BY 4.0.
+PAIPAI RANKING (交易商排排网). Global Broker Regulatory Licences Dataset. Snapshot 2026-11-22. Zenodo. https://doi.org/10.5281/zenodo.24415043. CC BY 4.0.
+```
+
+BibTeX:
+
+```bibtex
+@data{paipai2026licence,
+  author       = {{PAIPAI RANKING (交易商排排网)}},
+  title        = {Global Broker Regulatory Licences Dataset},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24415043},
+  url          = {https://doi.org/10.5281/zenodo.24415043},
+  note         = {CC BY 4.0; snapshot 2026-11-22}
+}
 ```
 
 ## Updates
